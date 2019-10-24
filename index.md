@@ -8,10 +8,6 @@
 #### [Publications](/pages/research.md)
 #### [About Me](/pages/about.md)
 
-<a href="https://www.linkedin.com/in/dario-pasquali/"><i class="fa fa-linkedin share-button"> linkedin</i></a>
-
-
-
 ---
 
 ### Projects
