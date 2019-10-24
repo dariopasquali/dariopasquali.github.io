@@ -10,9 +10,15 @@ All the team is responsible for the development, deployment and mainteance of th
 
 The main mantra is:
 
+---
+
 ### *<center> You build it. You run it. </center>*
 
-Ervey member is responibile of what he develops during its entire life (from design to mainteance).
+---
+
+Every member is responibile of what he develops during its entire life (from design to mainteance).
+
+---
 
 ### Movie Recommender
 
@@ -34,6 +40,8 @@ Movielens data are ingested and maintained to a [PostgreSQL](https://www.postgre
 Ratings are used to daily updated a [Spark MLlib](https://spark.apache.org/mllib/) model that predicts user preferences. The recommender is based on collaborative filtering, it compares users' ratings and generates a similarity score. For each user the model recommends the preferences of the most similar users. I used a [Matrix Factorizetion model](https://spark.apache.org/docs/latest/mllib-collaborative-filtering.html) optimized with the Alternative Least Square method.
 
 The model is exposed on a web application that allows the user to consult the ratings and rate films. The new added rating are used in real-time to update the model.
+
+---
 
 ### DevOps principles and process automation
 
