@@ -26,7 +26,7 @@ Moreover it can sense the state of the cell in fron of it with the sonar. Before
 
 #### Exploration Algorithm
 
-<img src="../images/scout.jpg" width="100%"/>
+<img src="../images/exploration.gif" width="100%"/>
 
 The exploration is based on the **Left Wall Follower algorithm**. The idea is to move in the map always keeping the left hand on a wall. If the maze is fully-connected this algorithm finds the solution in a finite time. Otherwise it will end in a loop.
 
