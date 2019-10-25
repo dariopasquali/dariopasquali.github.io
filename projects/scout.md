@@ -25,6 +25,9 @@ I assume the robot dimension is the same of a cell. Also for the movements:
 Moreover it can sense the state of the cell in fron of it with the sonar. Before each movement the robot checks the cell in front of it with the sonar
 
 #### Exploration Algorithm
+
+<img src="../images/scout.jpg" width="100%"/>
+
 The exploration is based on the **Left Wall Follower algorithm**. The idea is to move in the map always keeping the left hand on a wall. If the maze is fully-connected this algorithm finds the solution in a finite time. Otherwise it will end in a loop.
 
 I implemented a variation of the left wall follower to:
@@ -35,5 +38,13 @@ The DDR followes the wall, sensing the left and front cell and turning right in 
 
 The search is a Breadth-First Search algorithm that scans neighborhood cells and expands like a wildfire.
 
-Then it reaches the unknown spot with the **Navigation Algorithm**. During the navigation, the AI assumes the Closed-World Assumption: each unknonw cell is an obstacle until an event grounds it to a walkable or obstacle state. This way, the path is based only on clear cells.
+Then it reaches the unknown spot with the **Navigation Algorithm**. 
+
+#### Navigation Algorithm
+
+<img src="../images/navigation.gif" width="100%"/>
+
+The navigation is performed with an A* Search algorithm. During the navigation, the AI assumes the Close-World Assumption: each unknonw cell is an obstacle until an event grounds it to a walkable or obstacle state. This way, the path is based only on known cells.
+
+During the navigation the DDR keeps scanning the environment before moving to the next cell. if it discovers that a cell is not clear it stops and update the internal representation. Then the robot plans a new path to the objective.
 
