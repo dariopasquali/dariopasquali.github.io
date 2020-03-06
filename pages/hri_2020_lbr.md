@@ -1,7 +1,7 @@
 # Your Eyes Never Lie: A Robot Magician Can Tell if You Are Lying
 ***Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A.*<br>
 
-## HRI 2020 Late Breaking Report - 24 March 2020
+## [HRI 2020 Late Breaking Report - 24 March 2020](https://humanrobotinteraction.org/2020/)
 
 ### Abstract
 <div style="text-align: justify">
