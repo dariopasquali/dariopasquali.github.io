@@ -10,11 +10,11 @@ Detecting lies in a real-world scenario is an important skill for a humanoid rob
 
 ### Download Poster
 
-<a href="../assets/posters/HRI_2020_lbr.pptx"><img width="64" src="../assets/posters/poster_hri_2020_lbr.png"/></a> 
+<a href="../assets/posters/HRI_2020_lbr.pptx"><img width="100" src="../assets/posters/poster_hri_2020_lbr.png"/></a> 
 
 
 ### Download Paper
 
-<a href="../assets/posters/HRI_2020_lbr.pptx"><img width="64" src="../assets/posters/poster_hri_2020_lbr.png"/></a>
+<a href="../assets/posters/HRI_2020_lbr.pptx"><img width="100" src="../assets/posters/paper_hri_2020_lbr.png"/></a>
 
 
