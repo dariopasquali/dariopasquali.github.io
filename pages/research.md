@@ -2,7 +2,8 @@
 
 ---
 
-### Do You See the Magic? An Autonomous Robot Magician Can Read Your Mind <img width="25%" style="float: right;" src="../images/hri.png">
+### Do You See the Magic? An Autonomous Robot Magician Can Read Your Mind
+<img width="25%" style="float: right;" src="../images/hri.png">
 
 ***D. Pasquali**, A. Aroyo, J. Gonzalez-Billandon, F. Rea, G. Sandini, A. Sciutti*<br>
 [Accepted](https://mypersonalrobots.org/events/2019/12/31/call-for-papers-hri-2020-workshop-on-exploring-creative-content-in-social-robotics)
@@ -15,7 +16,8 @@ interaction. Te iCub humanoid robot plays the role of a magician in a card game,
 
 ---
 
-### Your Eyes Never Lie: A Robot Magician Can Tell if You Are Lying <img width="25%" style="float: right;" src="../images/hri.png">
+### [Your Eyes Never Lie: A Robot Magician Can Tell if You Are Lying](../pages/hri_2020_lbr.md)
+<img width="25%" style="float: right;" src="../images/hri.png">
 
 ***D. Pasquali**, A. Aroyo, J. Gonzalez-Billandon, F. Rea, G. Sandini, A. Sciutti*<br>
 [Accepted]()
