@@ -3,14 +3,14 @@ main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Publications"
-     url: /pages/research.md
+     url: /research/
    - title: "Projects"
-     url: /pages/projects/
+     url: /projects/
   # - title: "Blog"
   #   url: /pages/blog.md
    - title: "Work"
-     url: /pages/work.md
+     url: /work/
    - title: "Education"
-     url: /pages/school.md
+     url: /school/
    - title: "About Me"
-     url: /pages/about/
+     url: /about/
