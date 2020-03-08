@@ -20,7 +20,7 @@ title                    : "Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dario Pasquali"
-description              : "PhD Student</br>Istituto Italiano di Tecnologia</br>Robotics Brain and Cognitive Sciences (RBCS)</br>Information and Communication Technology Directorate (ICT)"
+description              : "PhD Student @ Istituto Italiano di Tecnologia"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dariopasquali/dariopasquali.github.io"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Dario Pasquali"
   avatar           : "/assets/images/me2.jpg"
-  bio              : "PhD Student @ Istituto Italiano di Tecnologia."
+  bio              : "PhD Student</br>Istituto Italiano di Tecnologia</br>Robotics Brain and Cognitive Sciences (RBCS)</br>Information and Communication Technology Directorate (ICT)"
   location         : "Genoa, Italy"
   email            : "dario.pasquali@iit.it"
   links:
