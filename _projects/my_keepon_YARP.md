@@ -1,4 +1,9 @@
-## MyKeepon YARP & Python Controller
+---
+title: "MyKeepon YARP & Python Controller"
+permalink: /projects/mykeepon
+classes: wide
+---
+
 [![Funny promotional Video](https://pro2-bar-s3-cdn-cf2.myportfolio.com/a18db6f915c1cf39e6c69f92563a6e4a/368511eca96f6f9a5286ebe3_rw_600.jpeg?h=3b57383398cdd56ab63c8c4f83a570dd)](https://youtu.be/QTWA5tLNJ3c)
 
 YARP and Python application to controller the hacked version of [MyKeepon](https://beatbots.net/my-keepon) from BeatBox.

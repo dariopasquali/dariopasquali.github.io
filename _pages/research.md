@@ -1,6 +1,7 @@
 ---
 title: "Pubblications"
 permalink: /research/
+classes: wide
 ---
 
 ### [Do You See the Magic? An Autonomous Robot Magician Can Read Your Mind](../pages/hri_2020_workshop.md)

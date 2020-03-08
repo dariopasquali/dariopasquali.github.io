@@ -1,4 +1,9 @@
-## iCub's Facial Controller
+---
+title: "iCub's Facial Controller"
+permalink: /projects/icub/eyelids
+classes: wide
+---
+
 <img src="../images/wink.png" width="100%"/>
 Hardware and Software update of iCub Reddy's eyelids. The new version equips a separated servo motor for each eyelid. This opens the possibility to wink and send even deeper non-verbal messages. The controller replaces the old one, controlling both yelids, facial expressions and blinkning.
 

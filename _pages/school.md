@@ -1,6 +1,7 @@
 ---
 title: "Education Experience"
 permalink: /school/
+classes: wide
 ---
 
 ## Education Experience

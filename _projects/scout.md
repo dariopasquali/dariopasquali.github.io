@@ -1,4 +1,9 @@
-## Scout DDR: autonomous exploration and navigation
+---
+title: "Scout DDR: autonomous exploration and navigation"
+permalink: /projects/scout
+classes: wide
+---
+
 <img src="../images/scout.jpg" width="100%"/>
 
 Project activity for the course of Software Engineering M at University of Bologna.

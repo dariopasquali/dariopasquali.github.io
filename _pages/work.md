@@ -1,6 +1,7 @@
 ---
 title: "Work Experience"
 permalink: /work/
+classes: wide
 ---
 
 ## Work Experience

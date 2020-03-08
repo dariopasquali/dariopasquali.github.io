@@ -1,4 +1,8 @@
-## DevOps: development process automation (*Master Dissertation*)
+---
+title: "DevOps: development process automation (Master Dissertation)"
+permalink: /projects/devops
+classes: wide
+---
 <img src="../images/devops.png" width="100%"/>
 
 [DevOps](https://devops.com/definition-devops-masses/) is like a philosophy. It's a way to see the development process putting the **people** in the center.
