@@ -8,5 +8,5 @@ main:
      url: /pages/projects.md
   # - title: "Blog"
   #   url: /pages/blog.md
-  - title: "About Me"
+   - title: "About Me"
      url: /pages/about.md
