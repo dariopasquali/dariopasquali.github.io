@@ -114,7 +114,7 @@ author:
   email            : "dario.pasquali@iit.it"
   links:
     - label: "Istituto Italiano di Tecnologia"
-      icon: "fab fa-fw fa-building"
+      icon: "fas fa-briefcase"
       url: "https://www.iit.it/people/dario-pasquali"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
