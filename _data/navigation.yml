@@ -6,8 +6,8 @@ main:
      url: /research/
    - title: "Projects"
      url: /projects/
-   - title: "Recipes"
-     url: /recipes/
+   - title: "Archive"
+     url: /portfolio/
   # - title: "Blog"
   #   url: /pages/blog.md
    - title: "Work"
