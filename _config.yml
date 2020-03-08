@@ -109,7 +109,10 @@ analytics:
 author:
   name             : "Dario Pasquali"
   avatar           : "/assets/images/me2.jpg"
-  bio              : "PhD Student</br>Istituto Italiano di Tecnologia</br>Robotics Brain and Cognitive Sciences (RBCS)</br>Information and Communication Technology Directorate (ICT)"
+  bio              : "PhD Student
+                      Istituto Italiano di Tecnologia
+                      Robotics Brain and Cognitive Sciences (RBCS)
+                      Information and Communication Technology Directorate (ICT)"
   location         : "Genoa, Italy"
   email            : "dario.pasquali@iit.it"
   links:

@@ -13,4 +13,4 @@ main:
    - title: "Education"
      url: /pages/school.md
    - title: "About Me"
-     url: /pages/about.md
+     url: /pages/about/
