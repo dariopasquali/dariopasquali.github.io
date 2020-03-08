@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dariopasquali/dariopasquali.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Dario Pasquali"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -114,7 +114,7 @@ author:
   email            : "dario.pasquali@iit.it"
   links:
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dario-pasquali/"
     - label: "Research Gate"
       icon: "fab fa-fw fa-researchgate"
@@ -127,7 +127,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dario-pasquali/"
     - label: "Research Gate"
       icon: "fab fa-fw fa-researchgate"
