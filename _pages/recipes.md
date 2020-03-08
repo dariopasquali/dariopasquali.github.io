@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: archive
 title: "Recipes"
 collection: recipes
 permalink: /recipes/

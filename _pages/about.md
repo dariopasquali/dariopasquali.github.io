@@ -4,12 +4,6 @@ permalink: /about/
 classes: wide
 ---
 
-### Languages
-- Italian, Mothertongue
-- English, Good, B2
-
----
-
 ### IT Skills
 
 **Programming Languages** <br>
@@ -18,6 +12,12 @@ Python, C++, Scala, Java, C#, C, RobotC, Prolog, Xtext
 **Platforms & Frameworks** <br>
 Keras, TensorFlow, YARP, OpenCV, Spark, Cloudera CDH, Google Cloud
 Platform, AWS, Ansible, Jenkins, Hive, Impala, Kudu, Kafka, Hue, ELK, Prometheus, Grafana, Terraform
+
+---
+
+### Languages
+- Italian, Mothertongue
+- English, Good, B2
 
 ---
 
