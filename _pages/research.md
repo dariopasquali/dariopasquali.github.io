@@ -3,10 +3,6 @@ title: "Pubblications"
 permalink: /research/
 ---
 
-## Publications
-
----
-
 ### [Do You See the Magic? An Autonomous Robot Magician Can Read Your Mind](../pages/hri_2020_workshop.md)
 <img width="25%" style="float: right;" src="../images/hri.png">
 

@@ -1,10 +1,7 @@
 ---
 title: "About Me"
 permalink: /about/
----
-
-## About Me
-
+author_profile: true
 ---
 
 ### Languages
