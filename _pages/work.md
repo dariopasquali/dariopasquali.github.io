@@ -4,9 +4,6 @@ permalink: /work/
 classes: wide
 ---
 
-## Work Experience
-
----
 
 ### PhD student at Istituto Italiano di Tecnologia 
 <img width="15%" style="float: right;" src="../assets/images/rbcs.png">

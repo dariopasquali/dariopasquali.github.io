@@ -4,9 +4,6 @@ permalink: /school/
 classes: wide
 ---
 
-## Education Experience
-
----
 
 ### DeepLearn Summer 2019 School
  <img width="15%" style="float: right;" src="../assets/images/DL2019.png">
