@@ -109,10 +109,13 @@ analytics:
 author:
   name             : "Dario Pasquali"
   avatar           : "/assets/images/me2.jpg"
-  bio              : "PhD Student @ Istituto Italiano di Tecnologia - Robotics Brain and Cognitive Sciences (RBCS) - Information and Communication Technology Directorate (ICT)"
+  bio              : "PhD Student @ Istituto Italiano di Tecnologia"
   location         : "Genoa, Italy"
   email            : "dario.pasquali@iit.it"
   links:
+    - label: "Istituto Italiano di Tecnologia"
+      icon: "fab fa-fw fa-building"
+      url: "https://www.iit.it/people/dario-pasquali"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dario-pasquali/"
@@ -281,8 +284,4 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
+      classes: wide

@@ -3,7 +3,8 @@ layout: collection
 title: "Projects"
 collection: projects
 permalink: /projects/
-author_profile: true
+entries_layout: grid
+classes: wide
 ---
 
 Sample document listing for the collection `_projects`.
