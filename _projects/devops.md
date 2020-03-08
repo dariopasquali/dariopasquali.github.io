@@ -1,6 +1,5 @@
 ---
 title: "DevOps: development process automation (Master Dissertation)"
-permalink: /projects/devops
 classes: wide
 ---
 <img src="../assets/images/devops.png" width="100%"/>

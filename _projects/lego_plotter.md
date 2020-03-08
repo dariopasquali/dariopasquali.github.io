@@ -1,6 +1,5 @@
 ---
 title: "Lego Mindstorm NXT Plotter"
-permalink: /projects/lego
 classes: wide
 ---
 

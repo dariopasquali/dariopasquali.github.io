@@ -1,6 +1,5 @@
 ---
 title: "Cogito Ergo Expando"
-permalink: /projects/cogito
 classes: wide
 ---
 

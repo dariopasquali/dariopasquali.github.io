@@ -1,6 +1,5 @@
 ---
 title: "iCub's Facial Controller"
-permalink: /projects/icub/eyelids
 classes: wide
 ---
 

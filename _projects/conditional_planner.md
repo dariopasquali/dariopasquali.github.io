@@ -1,6 +1,5 @@
 ---
 title: "Conditional Planning for autonomous navigation"
-permalink: /projects/planning
 classes: wide
 ---
 

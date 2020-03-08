@@ -1,6 +1,5 @@
 ---
 title: "Geometrical Object Detection in Computer Vision (Bachelor Dissertation)"
-permalink: /projects/bachelor
 classes: wide
 ---
 

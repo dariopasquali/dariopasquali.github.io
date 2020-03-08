@@ -1,6 +1,5 @@
 ---
 title: "Scout DDR: autonomous exploration and navigation"
-permalink: /projects/scout
 classes: wide
 ---
 

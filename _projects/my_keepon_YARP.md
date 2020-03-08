@@ -1,6 +1,5 @@
 ---
 title: "MyKeepon YARP & Python Controller"
-permalink: /projects/mykeepon
 classes: wide
 ---
 
