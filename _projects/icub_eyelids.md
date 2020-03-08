@@ -1,9 +1,11 @@
 ---
 title: "iCub's Facial Controller"
-classes: wide
+header:
+  image: /assets/images/wink.png
+  teaser: /assets/images/wink.png
 ---
 
-<img src="../assets/images/wink.png" width="100%"/>
+<img src="/assets/images/wink.png" width="100%"/>
 Hardware and Software update of iCub Reddy's eyelids. The new version equips a separated servo motor for each eyelid. This opens the possibility to wink and send even deeper non-verbal messages. The controller replaces the old one, controlling both yelids, facial expressions and blinkning.
 
 Winking is one of the most complex and deep behavior of human. It usually refers to an embedded and shared secret between two partners. Something they cannot say with voice but they need to recall. Winking will be really interesting for my research in particular to enforce iCub's secret requests asked to the human partners.

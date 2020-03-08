@@ -1,6 +1,8 @@
 ---
 title: "Cogito Ergo Expando"
-classes: wide
+header:
+  image: /assets/images/cogito.jpg
+  teaser: /assets/images/cogito.jpg
 ---
 
 <img src="../assets/images/cogito.jpg" width="100%"/>

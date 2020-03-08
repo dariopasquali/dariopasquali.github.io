@@ -1,6 +1,7 @@
 ---
 title: "Scout DDR: autonomous exploration and navigation"
-classes: wide
+  image: /assets/images/scout.jpg
+  teaser: /assets/images/scout.jpg
 ---
 
 <img src="../assets/images/scout.jpg" width="100%"/>
