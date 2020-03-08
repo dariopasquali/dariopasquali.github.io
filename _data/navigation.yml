@@ -5,8 +5,12 @@ main:
    - title: "Publications"
      url: /pages/research.md
    - title: "Projects"
-     url: /pages/projects.md
+     url: /pages/projects/
   # - title: "Blog"
   #   url: /pages/blog.md
+   - title: "Work"
+     url: /pages/work.md
+   - title: "Education"
+     url: /pages/school.md
    - title: "About Me"
      url: /pages/about.md
