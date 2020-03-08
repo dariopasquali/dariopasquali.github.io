@@ -4,4 +4,4 @@ permalink: /projects/planning
 classes: wide
 ---
 
-<img src="../images/planning.gif" width="100%"/>
+<img src="../assets/images/planning.gif" width="100%"/>

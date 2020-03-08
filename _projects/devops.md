@@ -3,7 +3,7 @@ title: "DevOps: development process automation (Master Dissertation)"
 permalink: /projects/devops
 classes: wide
 ---
-<img src="../images/devops.png" width="100%"/>
+<img src="../assets/images/devops.png" width="100%"/>
 
 [DevOps](https://devops.com/definition-devops-masses/) is like a philosophy. It's a way to see the development process putting the **people** in the center.
 
@@ -51,33 +51,33 @@ The model is exposed on a web application that allows the user to consult the ra
 
 I automatized the development, deployment and monitoring of this project following the **7 DevOps Principles**. In the design I used only open source products in order to make it easy a portability to a different environment.
 
-#### Configuration Management <img width="10%" style="float: right;" src="../images/ansible.png">
+#### Configuration Management <img width="10%" style="float: right;" src="../assets/images/ansible.png">
 Automation of the provisioning of development and production instances. Instead of use configuration scripts or manually configure each instance, IT people knowlede is refined to a DSL-based software component that ensures the idempotency and convergency of the setup. I defined [Ansible](https://www.ansible.com/) [Playbooks](https://docs.ansible.com/ansible/latest/user_guide/playbooks.html) for each role in my cluster. This opens the possibility to configure new instances on-demand with the required role and services.
 A playbook is easily understandable and versionable.
 
 
-#### Infrastructure as a Code <img width="10%" style="float: right;" src="../images/terraform.png">
+#### Infrastructure as a Code <img width="10%" style="float: right;" src="../assets/images/terraform.png">
 Also the cluster architecture can be defined as a software component. I defined each instance in Google Cloud Platform using [Terraform](https://www.terraform.io/) configuration files. This way is possible to scale the cluster on-demand. Terraform runs Ansible playbooks to provise each instance on creation.
 
 
-#### Continuous Integration <img width="10%" style="float: right;" src="../images/github.png">
+#### Continuous Integration <img width="10%" style="float: right;" src="../assets/images/github.png">
 Each modification on the code is integrated in the final product at each commit. I hosted my code on Github and integrated it with a [Jenkins Blue Ocean](https://jenkins.io/projects/blueocean/) pipeline. This pipeline ensures the autonomous execution of a set of tests aand the deployment in production environment.
 
 
-#### Continuous Testing <img width="10%" style="float: right;" src="../images/junit.png">
+#### Continuous Testing <img width="10%" style="float: right;" src="../assets/images/junit.png">
 Each time the code is integrated to the centralized repository, a set of tests are autonomously runned. The execution of both feature and non-regression tests ensures the quality of the final product. The Jenkins pipeline deploys the code on a test environment that replicates the production one and run there all the test. if a test fails the pipiline is interrupted.
 
 
-#### Continuous Delivery <img width="10%" style="float: right;" src="../images/jenking.png">
+#### Continuous Delivery <img width="10%" style="float: right;" src="../assets/images/jenking.png">
 If all the tests work the software modification is merged in the release version, that is rebuild and it's ready for the deployment that happens only after an explicit command. The deployment is executed with Ansible in order to ensure a idempotent and convergent installation and the correct execution of the services.
 
 
 
-#### Continuous Deployment <img width="10%" style="float: right;" src="../images/jenking.png">
+#### Continuous Deployment <img width="10%" style="float: right;" src="../assets/images/jenking.png">
 If the trust in the pipeline is total each modification is directly deploied in production. This allows a continuous update of the final product so the team can focus on improve it.
 
 
-#### Continuous Monitoring <img width="10%" style="float: right;" src="../images/grafana.png"> <img width="10%" style="float: right;" src="../images/prome.png"> <img width="10%" style="float: right;" src="../images/slack.png">
+#### Continuous Monitoring <img width="10%" style="float: right;" src="../assets/images/grafana.png"> <img width="10%" style="float: right;" src="../assets/images/prome.png"> <img width="10%" style="float: right;" src="../assets/images/slack.png">
 The whole development process and the product in production must be monitored in order to ensure the best possible quality. I used [Prometheus](https://prometheus.io/) to collect distributed metrics that are presented with a [Grafana](https://grafana.com/) dashboard. In case of alerts all the team is warned with a [Slack](https://slack.com/) bot
 
 

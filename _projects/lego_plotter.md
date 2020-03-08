@@ -4,4 +4,4 @@ permalink: /projects/lego
 classes: wide
 ---
 
-<img src="../images/lego.jpg" width="100%"/>
+<img src="../assets/images/lego.jpg" width="100%"/>

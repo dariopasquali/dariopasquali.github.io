@@ -5,7 +5,7 @@ classes: wide
 ---
 
 ### [Do You See the Magic? An Autonomous Robot Magician Can Read Your Mind](../pages/hri_2020_workshop.md)
-<img width="25%" style="float: right;" src="../images/hri.png">
+<img width="25%" style="float: right;" src="../assets/images/hri.png">
 
 ***D. Pasquali**, A. Aroyo, J. Gonzalez-Billandon, F. Rea, G. Sandini, A. Sciutti*<br>
 [Accepted](https://mypersonalrobots.org/events/2019/12/31/call-for-papers-hri-2020-workshop-on-exploring-creative-content-in-social-robotics)
@@ -18,7 +18,7 @@ For most people magicians seem to surpass human abilities, combining skills and 
 ---
 
 ### [Your Eyes Never Lie: A Robot Magician Can Tell if You Are Lying](../pages/hri_2020_lbr.md)
-<img width="25%" style="float: right;" src="../images/hri.png">
+<img width="25%" style="float: right;" src="../assets/images/hri.png">
 
 ***D. Pasquali**, A. Aroyo, J. Gonzalez-Billandon, F. Rea, G. Sandini, A. Sciutti*<br>
 [Accepted]()
@@ -29,7 +29,8 @@ Detecting lies in a real-world scenario is an important skill for a humanoid rob
 </div>
 ---
 
-### Can a robot catch you lying ? A machine learning system to detect lies during interactions <img width="25%" style="float: right;" src="../images/frontiers.png">
+### Can a robot catch you lying ? A machine learning system to detect lies during interactions 
+<img width="25%" style="float: right;" src="../assets/images/frontiers.png">
 
 *J. Gonzalez-Billandon, A. Aroyo, A. Tonelli, **D. Pasquali**, A. Sciutti, M. Gori, G. Sandini, F.Rea*<br>
 *31 July 2019*<br>

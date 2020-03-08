@@ -8,7 +8,8 @@ classes: wide
 
 ---
 
-### PhD student at Istituto Italiano di Tecnologia <img width="15%" style="float: right;" src="../images/rbcs.png">
+### PhD student at Istituto Italiano di Tecnologia 
+<img width="15%" style="float: right;" src="../assets/images/rbcs.png">
 
 *November 2018 - Current*<br>
 Bioengineering and Robotics<br>
@@ -19,14 +20,16 @@ Predict target’s compliance with a Social Engineering attack using non-verbal 
 
 ---
 
-### Big Data Engineer at Data Reply S.r.l. <img width="15%" style="float: right;" src="../images/data.png">
+### Big Data Engineer at Data Reply S.r.l. 
+<img width="15%" style="float: right;" src="../assets/images/data.png">
 
 *October 2017 - November 2018*<br>
 Automation of development process and optimization of teamwork activities with De-vOps principles. Full-stack development of Scala and Python applications, based on Spark and Cloudera, for Big Data processing in telemetics field
 
 --- 
 
-### Internship at MICREL Lab of University of Bologna <img width="15%" style="float: right;" src="../images/unibo.jpg">
+### Internship at MICREL Lab of University of Bologna 
+<img width="15%" style="float: right;" src="../assets/images/unibo.jpg">
 
 *February 2015 - December 2015*<br>
 **Tutors**: Prof. Bruno Riccò and PhD Marco Marchesi<br>

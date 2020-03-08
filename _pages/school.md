@@ -8,7 +8,8 @@ classes: wide
 
 ---
 
-### DeepLearn Summer 2019 School <img width="15%" style="float: right;" src="../images/DL2019.png">
+### DeepLearn Summer 2019 School
+ <img width="15%" style="float: right;" src="../assets/images/DL2019.png">
 
 *July 2019, Warsaw*<br>
 https://deeplearn2019.irdta.eu/<br>
@@ -16,7 +17,8 @@ Focus on Computer Vision and Deep Learning
 
 ---
 
-### Master Degree in Computer Engineering <img width="15%" style="float: right;" src="../images/unibo.jpg">
+### Master Degree in Computer Engineering
+<img width="15%" style="float: right;" src="../assets/images/unibo.jpg">
 
 *March 2018, University of Bologna*<br>
 **Degree**: 110/110 *summa cum laude*<br>
@@ -25,7 +27,8 @@ Focus on Artificial Intelligence, Software Engineering and optimization. Develop
 
 ---
 
-### Bachelor Degree in Computer Engineering <img width="15%" style="float: right;" src="../images/unibo.jpg">
+### Bachelor Degree in Computer Engineering 
+<img width="15%" style="float: right;" src="../assets/images/unibo.jpg">
 
 *December 2015, University of Bologna*<br>
 **Degree**: 101/110<br>
@@ -33,7 +36,8 @@ Focus on Artificial Intelligence, Software Engineering and optimization. Develop
 
 ---
 
-### Technical  High  School  for  Electronic  and  Telecommunication Diploma <img width="15%" style="float: right;" src="../images/salesiani.png">
+### Technical  High  School  for  Electronic  and  Telecommunication Diploma 
+<img width="15%" style="float: right;" src="../assets/images/salesiani.png">
 
 *July 2012, Istituto Salesiano B.V.S.L. in Bologna*<br>
 **Degree**: 100/100<br>
