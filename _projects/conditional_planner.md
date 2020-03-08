@@ -5,4 +5,4 @@ header:
   teaser: /assets/images/planning.gif
 ---
 
-<img src="../assets/images/planning.gif" width="100%"/>
+<img src="../../assets/images/planning.gif" width="100%"/>

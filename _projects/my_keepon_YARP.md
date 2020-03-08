@@ -17,7 +17,7 @@ To hack MyKeepon I followed this [guide](http://probo.vub.ac.be/HackingKeepon/).
 
 I designed a 2-level architecture: MyKeepon is controller by an Arduino Script. Commands can be sent through serial interface from a Python or YARP (C++) application.
 
-<img src="../assets/images/keeponArch.png" width="100%"/>
+<img src="../../assets/images/keeponArch.png" width="100%"/>
 
 #### Arduino Driver
 MyKeepon has 4 degrees of freedom:

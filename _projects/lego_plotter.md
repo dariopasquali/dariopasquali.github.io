@@ -5,4 +5,4 @@ header:
   teaser: /assets/images/lego.jpg
 ---
 
-<img src="../assets/images/lego.jpg" width="100%"/>
+<img src="../../assets/images/lego.jpg" width="100%"/>

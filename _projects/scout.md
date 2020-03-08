@@ -1,10 +1,11 @@
 ---
 title: "Scout DDR: autonomous exploration and navigation"
+header:
   image: /assets/images/scout.jpg
   teaser: /assets/images/scout.jpg
 ---
 
-<img src="../assets/images/scout.jpg" width="100%"/>
+<img src="../../assets/images/scout.jpg" width="100%"/>
 
 Project activity for the course of Software Engineering M at University of Bologna.
 I designed and implemented **Scout** a Differential Drive Robot (DDR) able to autonomously explore and navigate an unknown environment.
@@ -31,7 +32,7 @@ Moreover it can sense the state of the cell in fron of it with the sonar. Before
 
 #### Exploration Algorithm
 
-<img src="../assets/images/exploration.gif" width="100%"/>
+<img src="../../assets/images/exploration.gif" width="100%"/>
 
 The exploration is based on the **Left Wall Follower algorithm**. The idea is to move in the map always keeping the left hand on a wall. If the maze is fully-connected this algorithm finds the solution in a finite time. Otherwise it will end in a loop.
 
@@ -47,7 +48,7 @@ Then it reaches the unknown spot with the **Navigation Algorithm**.
 
 #### Navigation Algorithm
 
-<img src="../assets/images/navigation.gif" width="100%"/>
+<img src="../../assets/images/navigation.gif" width="100%"/>
 
 The navigation is performed with an A* Search algorithm. During the navigation, the AI assumes the Close-World Assumption: each unknonw cell is an obstacle until an event grounds it to a walkable or obstacle state. This way, the path is based only on known cells.
 
