@@ -26,9 +26,13 @@ Detecting lies in a real-world scenario is an important skill for a humanoid rob
 
 ---
 
-{% include figure image_path="/assets/posters/lbr.png" %}
+## Downloads
+
+{% include feature_row %}
 
 ---
 
-{% include feature_row %}
+{% include figure image_path="/assets/posters/lbr.png" %}
+
+---
 
