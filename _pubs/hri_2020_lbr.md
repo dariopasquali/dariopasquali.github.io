@@ -3,15 +3,15 @@ title: "Your Eyes Never Lie: A Robot Magician Can Tell if You Are Lying"
 layout: single
 feature_row:
   - url: /assets/posters/HRI_2020_lbr.pptx
-    image_path: /assets/posters/poster_hri_2020_lbr.png
+    image_path: /assets/posters/banner_poster_hri_2020_lbr.png
     alt: "HRI 2020 Late Breaking Report"
     btn_label: "Download Poster"
-    btn_class: inverse
+    btn_class: info
   - url: /assets/posters/HRI_2020_lbr.pdf
-    image_path: /assets/posters/paper_hri_2020_lbr.png
+    image_path: /assets/posters/banner_paper_hri_2020_lbr.png
     alt: "HRI 2020 Late Breaking Report"
     btn_label: "Download Paper"
-    btn_class: inverse
+    btn_class: info
 ---
 
 **Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A.<br>
