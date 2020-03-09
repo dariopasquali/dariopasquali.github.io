@@ -1,12 +1,10 @@
 ---
 title: "Do You See the Magic? An Autonomous Robot Magician Can Read Your Mind"
 layout: single
-header:
-  image: /assets/images/hri.png
-  teaser: /assets/images/hri.png
 ---
 
-***Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A.*<br>
+**Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A.
+<img width="25%" style="float: right;" src="../../assets/images/hri.png">
 
 ## [HRI 2020 Workshop on Exploring Creative Content in Social Robotics  - 23 March 2020](https://mypersonalrobots.org/events/2019/12/31/call-for-papers-hri-2020-workshop-on-exploring-creative-content-in-social-robotics)
 
@@ -18,10 +16,10 @@ For most people magicians seem to surpass human abilities, combining skills and 
 ---
 
 ### Download Poster
-<a href="../assets/posters/HRI_2020_ws.pptx"><img width="100" src="../assets/posters/poster_hri_2020_ws.png"/></a> 
+<a href="../../assets/posters/HRI_2020_ws.pptx"><img width="100" src="../../assets/posters/poster_hri_2020_ws.png"/></a> 
 
 
 ### Download Paper
-<a href="../assets/posters/HRI_2020_ws.pdf"><img width="100" src="../assets/posters/paper_hri_2020_ws.png"/></a>
+<a href="../../assets/posters/HRI_2020_ws.pdf"><img width="100" src="../../assets/posters/paper_hri_2020_ws.png"/></a>
 
 
