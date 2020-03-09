@@ -14,7 +14,7 @@ feature_row:
     btn_class: inverse
 ---
 
-**Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A. ![image-right](/assets/images/hri.png){: .align-right}
+**Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A. ![image-right](/assets/images/hri.png){: .align-right; width=25%}
 
 
 ## [HRI 2020 Workshop on Exploring Creative Content in Social Robotics  - 23 March 2020](https://mypersonalrobots.org/events/2019/12/31/call-for-papers-hri-2020-workshop-on-exploring-creative-content-in-social-robotics)

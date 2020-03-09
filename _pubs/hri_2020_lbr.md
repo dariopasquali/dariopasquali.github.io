@@ -14,7 +14,7 @@ feature_row:
     btn_class: inverse
 ---
 
-**Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A. ![image-right](/assets/images/hri.png){: .align-right}
+**Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A. ![image-right](/assets/images/hri.png){: .align-right; width=25%}
 
 
 
