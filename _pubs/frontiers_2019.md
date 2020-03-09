@@ -4,7 +4,7 @@ layout: single
 ---
 
 J. Gonzalez-Billandon, A. Aroyo, A. Tonelli, **D. Pasquali**, A. Sciutti, M. Gori, G. Sandini, F.Rea
-<img width="25%" style="float: right;" src="../../assets/images/frontiers.png">
+![image-right](/assets/images/frontiers.png){: .align-right}
 
 *31 July 2019*
 
