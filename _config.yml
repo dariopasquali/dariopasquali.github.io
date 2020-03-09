@@ -265,7 +265,7 @@ compress_html:
     envs: development
 
 collections:
-  recipes:
+  pubs:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -301,7 +301,16 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: splash
+      layout: single
+      classes: wide
+      author_profile: true
+
+  # _pubs
+  - scope:
+      path: ""
+      type: pubs
+    values:
+      layout: single
       classes: wide
       author_profile: true
 
