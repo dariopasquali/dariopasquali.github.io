@@ -17,7 +17,7 @@ feature_row:
 {% include figure image_path="/assets/posters/lbr.png" %}
 
 **Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A.<br>
-<img width="25%" style="float: right;" src="../../assets/images/hri.png">
+<img width="25%" src="../../assets/images/hri.png">
 
 ## [HRI 2020 Late Breaking Report - 24 March 2020](https://humanrobotinteraction.org/2020/)
 
