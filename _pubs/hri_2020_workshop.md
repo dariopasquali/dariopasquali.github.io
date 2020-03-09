@@ -1,6 +1,15 @@
 ---
 title: "Do You See the Magic? An Autonomous Robot Magician Can Read Your Mind"
-layout: single
+layout: splash
+gallery:
+  - url: /assets/posters/HRI_2020_ws.pdf
+    image_path: /assets/posters/poster_hri_2020_ws.png
+    alt: "HRI 2020 Creative content WS"
+    title: "Download Poster"
+  - url: /assets/posters/HRI_2020_ws.pdf
+    image_path: /assets/posters/poster_hri_2020_ws.png
+    alt: "HRI 2020 Creative content WS"
+    title: "Download Paper"
 ---
 
 **Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A.
@@ -15,11 +24,4 @@ For most people magicians seem to surpass human abilities, combining skills and 
 
 ---
 
-### Download Poster
-<a href="../../assets/posters/HRI_2020_ws.pptx"><img width="100" src="../../assets/posters/poster_hri_2020_ws.png"/></a> 
-
-
-### Download Paper
-<a href="../../assets/posters/HRI_2020_ws.pdf"><img width="100" src="../../assets/posters/paper_hri_2020_ws.png"/></a>
-
-
+{% include gallery %}

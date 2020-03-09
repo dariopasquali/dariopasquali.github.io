@@ -1,6 +1,15 @@
 ---
 title: "Your Eyes Never Lie: A Robot Magician Can Tell if You Are Lying"
-layout: single
+layout: splash
+gallery:
+  - url: /assets/posters/HRI_2020_lbr.pptx
+    image_path: /assets/posters/poster_hri_2020_lbr.png
+    alt: "HRI 2020 Late Breaking Report"
+    title: "Download Poster"
+  - url: /assets/posters/HRI_2020_lbr.pdf
+    image_path: /assets/posters/paper_hri_2020_lbr.png
+    alt: "HRI 2020 Late Breaking Report"
+    title: "Download Paper"
 ---
 
 **Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A.<br>
@@ -15,11 +24,5 @@ Detecting lies in a real-world scenario is an important skill for a humanoid rob
 
 ---
 
-### Download Poster
-<a href="../../assets/posters/HRI_2020_lbr.pptx"><img width="100" src="../../assets/posters/poster_hri_2020_lbr.png"/></a> 
-
-
-### Download Paper
-<a href="../../assets/posters/HRI_2020_lbr.pdf"><img width="100" src="../../assets/posters/paper_hri_2020_lbr.png"/></a>
-
+{% include gallery %}
 
