@@ -14,9 +14,8 @@ feature_row:
     btn_class: inverse
 ---
 
-**Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A. ![image-right](/assets/images/hri.png){: .align-right; width=25%}
-
-
+**Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A.<br>
+<img width="25%" style="float: right;" src="../../assets/images/hri.png">
 
 ## [HRI 2020 Late Breaking Report - 24 March 2020](https://humanrobotinteraction.org/2020/)
 

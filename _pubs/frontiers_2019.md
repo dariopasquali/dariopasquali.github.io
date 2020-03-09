@@ -3,8 +3,8 @@ title: "Can a robot catch you lying ? A machine learning system to detect lies d
 layout: single
 ---
 
-J. Gonzalez-Billandon, A. Aroyo, A. Tonelli, **D. Pasquali**, A. Sciutti, M. Gori, G. Sandini, F.Rea ![image-right](/assets/images/frontiers.png){: .align-right; width=25%}
-
+J. Gonzalez-Billandon, A. Aroyo, A. Tonelli, **D. Pasquali**, A. Sciutti, M. Gori, G. Sandini, F.Rea
+<img width="25%" style="float: right;" src="../../assets/images/frontiers.png">
 
 *31 July 2019*
 
