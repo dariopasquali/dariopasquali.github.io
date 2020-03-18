@@ -13,7 +13,8 @@ feature_row:
     btn_label: "Download Paper"
     btn_class: info
 ---
-**Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A.<br>
+**Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A.
+
 <img width="25%" src="../../assets/images/hri.png">
 
 {% include figure image_path="/assets/posters/lbr.png" %}
