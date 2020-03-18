@@ -37,7 +37,7 @@ Detecting lies in a real-world scenario is an important skill for a humanoid rob
 
 <iframe width="100%" height="350" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS2CXctHrD_X3dPPZI0ZSNu_dI2Y_vq47IJBN61yqbeqHpNipi6M34EVoTqf6jM1s2fXN9znPmgQu11/pubchart?oid=1702591448&amp;format=interactive"></iframe>
 
-<div>The fake one is *"It's a card witch some cats that are climbing a stair"*</div>{: .notice--success}
+<div>The fake one is <i>"It's a card witch some cats that are climbing a stair"</i></div>{: .notice--success}
 
 ---
 
