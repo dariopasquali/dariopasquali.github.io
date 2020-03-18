@@ -15,7 +15,7 @@ feature_row:
 ---
 **Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A.
 
-<img width="25%" src="../../assets/images/hri.png">{: .align-left}
+<img width="25%" src="../../assets/images/hri.png">
 
 {% include figure image_path="/assets/posters/lbr.png" %}
 
