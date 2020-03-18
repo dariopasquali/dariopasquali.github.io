@@ -27,7 +27,9 @@ Detecting lies in a real-world scenario is an important skill for a humanoid rob
 
 ### Which is the fake sentence?
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScsDiGDNAKJtMCDexCXvEIZSwRDpw0djGikc704UUc3fvk8sQ/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScsDiGDNAKJtMCDexCXvEIZSwRDpw0djGikc704UUc3fvk8sQ/viewform?embedded=true" width="100%" height="300" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+
+<iframe width="100%" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS2CXctHrD_X3dPPZI0ZSNu_dI2Y_vq47IJBN61yqbeqHpNipi6M34EVoTqf6jM1s2fXN9znPmgQu11/pubchart?oid=1702591448&amp;format=interactive"></iframe>
 
 ### Downloads
 
