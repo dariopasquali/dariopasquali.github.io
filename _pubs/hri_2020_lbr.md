@@ -12,12 +12,15 @@ feature_row:
     alt: "HRI 2020 Late Breaking Report"
     btn_label: "Download Paper"
     btn_class: info
+
 ---
 **Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A.
 
 <img width="25%" src="../../assets/images/hri.png">
 
-{% include figure image_path="/assets/posters/lbr.png" %}
+<!-- {% include figure image_path="/assets/posters/lbr.png" %} -->
+
+{% include video id="oxYngsL-ctE" provider="youtube" %}
 
 ### Abstract
 <div style="text-align: justify">
