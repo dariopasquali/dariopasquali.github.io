@@ -1,7 +1,6 @@
 ---
 title: "Conditional Planning for autonomous navigation"
 header:
-  image: /assets/images/planning.gif
   teaser: /assets/images/planning.gif
 ---
 

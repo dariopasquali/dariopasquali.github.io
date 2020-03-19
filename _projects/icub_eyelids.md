@@ -1,7 +1,6 @@
 ---
 title: "iCub's Facial Controller"
 header:
-  image: /assets/images/wink.png
   teaser: /assets/images/wink.png
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Cogito Ergo Expando"
 header:
-  image: /assets/images/cogito.jpg
   teaser: /assets/images/cogito.jpg
 ---
 

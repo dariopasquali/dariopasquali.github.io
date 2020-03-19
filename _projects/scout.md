@@ -1,7 +1,6 @@
 ---
 title: "Scout DDR: autonomous exploration and navigation"
 header:
-  image: /assets/images/scout.jpg
   teaser: /assets/images/scout.jpg
 ---
 
