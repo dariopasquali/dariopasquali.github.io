@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/home.png
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
@@ -27,7 +27,7 @@ feature_row_2:
     btn_label: "Read More"   
 ---
 
-# New Posts
+# New PostsasdaDASD
 
 {% include feature_row  id="feature_row_1" type="left" %}
 
