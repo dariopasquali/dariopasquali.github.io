@@ -268,16 +268,6 @@ collections:
   pubs:
     output: true
     permalink: /:collection/:path/
-    order:
-      - icub_eyelids.md
-      - my_keepon_YARP.md
-      - devops.md
-      - overimpression.md
-      - cogito_ergo_expando.md
-      - conditional_planner.md
-      - scout.md
-      - gemetrical_cv.md
-      - lego_plotter.md
   projects:
     output: true
     permalink: /:collection/:path/
@@ -309,7 +299,7 @@ defaults:
   # _projects
   - scope:
       path: ""
-      type: pages
+      type: projects
     values:
       layout: single
       classes: wide
@@ -318,7 +308,7 @@ defaults:
   # _pubs
   - scope:
       path: ""
-      type: pages
+      type: pubs
     values:
       layout: single
       classes: wide
