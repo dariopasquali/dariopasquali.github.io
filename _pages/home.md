@@ -4,9 +4,6 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
 excerpt: >
   PhD Student <br/> Istituto Italiano di Tecnologia (IIT)
 
