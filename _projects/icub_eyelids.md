@@ -1,5 +1,6 @@
 ---
 title: "iCub's Facial Controller"
+project_id: 7
 header:
   teaser: /assets/images/wink.png
 ---

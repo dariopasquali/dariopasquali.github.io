@@ -1,5 +1,6 @@
 ---
 title: "MyKeepon YARP & Python Controller"
+project_id: 8
 header:
   teaser: /assets/images/keepon.jpg
 ---

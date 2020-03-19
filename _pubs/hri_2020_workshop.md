@@ -1,5 +1,6 @@
 ---
 title: "Do You See the Magic? An Autonomous Robot Magician Can Read Your Mind"
+pub_id: 3
 layout: single
 feature_row:
   - url: /assets/posters/HRI_2020_ws.pdf

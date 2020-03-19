@@ -1,5 +1,6 @@
 ---
 title: "DevOps: development process automation (Master Dissertation)"
+project_id: 6
 header:
   teaser: /assets/images/devops.png
 ---

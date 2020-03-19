@@ -1,5 +1,6 @@
 ---
 title: "Your Eyes Never Lie: A Robot Magician Can Tell if You Are Lying"
+pub_id: 2
 layout: single
 feature_row:
   - url: /assets/posters/HRI_2020_lbr.pptx
