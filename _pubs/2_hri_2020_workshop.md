@@ -14,7 +14,7 @@ feature_row:
 **Pasquali D.**, Aroyo A.M., Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A.
 <img width="25%" src="../../assets/images/hri.png">
 
-## [HRI 2020 Workshop on Exploring Creative Content in Social Robotics  - 23 March 2020](https://mypersonalrobots.org/events/2019/12/31/call-for-papers-hri-2020-workshop-on-exploring-creative-content-in-social-robotics)
+## [HRI 2020 Workshop on Exploring Creative Content in Social Robotics](https://mypersonalrobots.org/events/2019/12/31/call-for-papers-hri-2020-workshop-on-exploring-creative-content-in-social-robotics)
 
 {% include video id="oxYngsL-ctE" provider="youtube" %}
 
@@ -28,4 +28,4 @@ For most people magicians seem to surpass human abilities, combining skills and 
 
 ### Downloads
 
-{% include feature_row id="feature_row" type="left" %}
+{% include feature_row %}
