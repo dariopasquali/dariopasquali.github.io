@@ -20,7 +20,7 @@ feature_row:
 
 <!-- {% include figure image_path="/assets/posters/lbr.png" %} -->
 
-{% include video id="oxYngsL-ctE" provider="youtube" %}
+{% include video id="mn8JJ5lVQWY" provider="youtube" %}
 
 ### Abstract
 <div style="text-align: justify">
@@ -43,7 +43,6 @@ Detecting lies in a real-world scenario is an important skill for a humanoid rob
 <!-- <iframe width="100%" height="350" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS2CXctHrD_X3dPPZI0ZSNu_dI2Y_vq47IJBN61yqbeqHpNipi6M34EVoTqf6jM1s2fXN9znPmgQu11/pubchart?oid=1702591448&amp;format=interactive"></iframe> -->
 
 ---
-
 
 ### Downloads
 
