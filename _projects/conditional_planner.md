@@ -1,7 +1,7 @@
 ---
 title: "Conditional Planning for autonomous navigation"
+project_id: 4
 header:
-  image: /assets/images/planning.gif
   teaser: /assets/images/planning.gif
 ---
 

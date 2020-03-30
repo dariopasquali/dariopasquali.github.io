@@ -1,7 +1,7 @@
 ---
 title: "Geometrical Object Detection in Computer Vision (Bachelor Dissertation)"
+project_id: 2
 header:
-  image: /assets/images/dragon.jpg
   teaser: /assets/images/dragon.jpg
 ---
 

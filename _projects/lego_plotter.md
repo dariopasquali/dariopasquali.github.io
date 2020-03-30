@@ -1,7 +1,7 @@
 ---
 title: "Lego Mindstorm NXT Plotter"
+project_id: 1
 header:
-  image: /assets/images/lego.jpg
   teaser: /assets/images/lego.jpg
 ---
 

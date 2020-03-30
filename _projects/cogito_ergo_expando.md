@@ -1,7 +1,7 @@
 ---
 title: "Cogito Ergo Expando"
+project_id: 3
 header:
-  image: /assets/images/cogito.jpg
   teaser: /assets/images/cogito.jpg
 ---
 

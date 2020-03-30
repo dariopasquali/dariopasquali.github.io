@@ -1,7 +1,7 @@
 ---
 title: "Scout DDR: autonomous exploration and navigation"
+project_id: 5
 header:
-  image: /assets/images/scout.jpg
   teaser: /assets/images/scout.jpg
 ---
 
