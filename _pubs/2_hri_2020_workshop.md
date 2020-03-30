@@ -16,8 +16,6 @@ feature_row:
 
 ## [HRI 2020 Workshop on Exploring Creative Content in Social Robotics](https://mypersonalrobots.org/events/2019/12/31/call-for-papers-hri-2020-workshop-on-exploring-creative-content-in-social-robotics)
 
-{% include video id="oxYngsL-ctE" provider="youtube" %}
-
 {% include video id="jvR7kSNT8_w" provider="youtube" %}
 
 ### Abstract
