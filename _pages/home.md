@@ -16,7 +16,7 @@ feature_row_1:
     btn_label: "Read More"
 
 feature_row_2:
-  - image_path: /assets/images/cover_hri_ws.jpg
+  - image_path: /assets/images/cover_hri_ws.png
     title: "HRI 2020 Workshop on Exploring Creative Content in Social Robotics"
     excerpt: "Do You See the Magic? An Autonomous Robot Magician Can Read Your Mind"
     url: "/pubs/hri_2020_ws"
