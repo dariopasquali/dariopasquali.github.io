@@ -9,7 +9,7 @@ feature_row:
     alt: "HRI 2020 Late Breaking Report"
     btn_label: "Download Poster"
     btn_class: info
-  - url: /assets/posters/HRI_2020_lbr.pdf
+  - url: https://dl.acm.org/doi/10.1145/3371382.3378253
     image_path: /assets/posters/banner_paper_hri_2020_lbr.png
     alt: "HRI 2020 Late Breaking Report"
     btn_label: "Download Paper"
