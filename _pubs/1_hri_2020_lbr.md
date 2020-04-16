@@ -22,7 +22,7 @@ feature_row:
 
 <!-- {% include figure image_path="/assets/posters/lbr.png" %} -->
 
-{% include video id="mn8JJ5lVQWY" provider="youtube" %}
+{% include video id="RyQ3JTNjNts" provider="youtube" %}
 
 ### Abstract
 <div style="text-align: justify">
