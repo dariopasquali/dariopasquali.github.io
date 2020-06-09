@@ -9,7 +9,7 @@ feature_row:
     alt: "HRI 2020 Late Breaking Report"
     btn_label: "Download Poster"
     btn_class: info
-  - url: /assets/posters/HRI_2020_lbr.pdf
+  - url: https://dl.acm.org/doi/10.1145/3371382.3378253
     image_path: /assets/posters/banner_paper_hri_2020_lbr.png
     alt: "HRI 2020 Late Breaking Report"
     btn_label: "Download Paper"
@@ -22,7 +22,7 @@ feature_row:
 
 <!-- {% include figure image_path="/assets/posters/lbr.png" %} -->
 
-{% include video id="oxYngsL-ctE" provider="youtube" %}
+{% include video id="RyQ3JTNjNts" provider="youtube" %}
 
 <img src="../../assets/images/[HRI20]LBR_honorable mention.png">
 
@@ -47,7 +47,6 @@ Detecting lies in a real-world scenario is an important skill for a humanoid rob
 <!-- <iframe width="100%" height="350" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS2CXctHrD_X3dPPZI0ZSNu_dI2Y_vq47IJBN61yqbeqHpNipi6M34EVoTqf6jM1s2fXN9znPmgQu11/pubchart?oid=1702591448&amp;format=interactive"></iframe> -->
 
 ---
-
 
 ### Downloads
 
