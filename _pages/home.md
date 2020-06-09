@@ -7,6 +7,14 @@ header:
 excerpt: >
   PhD Student <br/> Istituto Italiano di Tecnologia (IIT)
 
+feature_row_3:
+  - image_path: /assets/images/[HRI20]LBR_honorable mention.png
+    title: "Best Late Breaking Report Award"
+    excerpt: "Your Eyes Never Lie: a Robot Magician Can Tell if You Are Lying"
+    url: "/pubs/hri_2020_lbr"
+    btn_class: "btn--info"
+    btn_label: "Read More"
+
 feature_row_1:
   - image_path: /assets/images/cover_hri_lbr.png
     title: "HRI 2020 Late Breaking Report"
@@ -23,6 +31,7 @@ feature_row_2:
     btn_class: "btn--info"
     btn_label: "Read More"   
 ---
+{% include feature_row  id="feature_row_3" type="left" %}
 
 {% include feature_row  id="feature_row_1" type="left" %}
 
