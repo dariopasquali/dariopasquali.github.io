@@ -4,7 +4,7 @@ pub_id: 3
 layout: single
 permalink: /pubs/hri_2020_ws
 feature_row:
-  - url: /assets/files/HRI_2020_WS_Creative_SR_paper.pdf
+  - url: https://mypersonalrobots.org/s/HRI_2020_WS_Creative_SR_paper_6.pdf
     image_path: /assets/posters/ws.jpg
     alt: "HRI 2020 WS Creative SR"
     btn_label: "Download Paper"
