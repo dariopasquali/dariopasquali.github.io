@@ -10,11 +10,10 @@ feature_row:
 ---
 
 **Pasquali D.**, Gonzalez-Billandon J., Rea F., Sandini G., Sciutti A.
-<img width="25%" src="../../assets/images/hri.png">
 
 ## [2021 ACM/IEEE International Conference on Human-Robot Interaction (HRI'21)](https://humanrobotinteraction.org/2021/)
 
-<img width="25%" src="../../assets/images/setup_brio.PNG">
+<img width="100%" src="../../assets/images/setup_brio.PNG">
 
 ### Abstract
 <div style="text-align: justify">

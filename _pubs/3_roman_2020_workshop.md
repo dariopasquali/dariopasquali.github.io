@@ -10,11 +10,10 @@ feature_row:
 ---
 
 Aroyo A.M., **Pasquali D.**, Kothing A., Rea F., Sandini G., Sciutti A.
-<img width="25%" src="../../assets/images/hri.png">
 
 ## [ RO-MAN 2020 - Trust, Acceptance and Social Cues in Human-Robot Interaction - SCRITA](http://scrita.herts.ac.uk/2020/)
 
-<img width="25%" src="../../assets/images/ws_uth.jpg">
+<img width="100%" src="../../assets/images/ws_uth.jpg">
 
 ### Abstract
 <div style="text-align: justify">
