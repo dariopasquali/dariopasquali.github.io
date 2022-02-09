@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Dario Pasquali"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Postdoc Fellow @ IIT"
 name                     : "Dario Pasquali"
 description              : "Postdoc Fellow @ </br> COgNitive Architecture for Collaborative Technologies </br> Istituto Italiano di Tecnologia"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
