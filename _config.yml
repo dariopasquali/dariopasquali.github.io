@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Dario Pasquali"
   avatar           : "/assets/images/me2.jpg"
-  bio              : "Postdoc Fellow @ </br> COgNitive Architecture for Collaborative Technologies </br> Istituto Italiano di Tecnologia"
+  bio              : "Postdoc Fellow @ <br/> COgNitive Architecture for Collaborative Technologies <br/> Istituto Italiano di Tecnologia"
   location         : "Genoa, Italy"
   email            : "dario.pasquali@iit.it"
   links:
