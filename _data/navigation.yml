@@ -2,17 +2,17 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "Research"
+   - title: "Publications"
      url: /pubs/
-   - title: "Projects"
-     url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
   # - title: "Blog"
   #   url: /pages/blog.md
-   - title: "Work"
+   - title: "Live CV"
      url: /work/
-   - title: "Education"
-     url: /school/
-   - title: "About Me"
-     url: /about/
+  # - title: "Education"
+  #   url: /school/
+  # - title: "About Me"
+  #   url: /about/
    - title: "Get in Touch!"
      url: /contact/
