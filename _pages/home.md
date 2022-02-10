@@ -8,7 +8,7 @@ excerpt: >
   Postdoc Fellow @ <br/> COgNitive Architecture for Collaborative Technologies <br/> Istituto Italiano di Tecnologia
 
 quote:
-  - excerpt: '<q>"Never be limited by other people's limited immagination"</q> <br/> Mae C. Jemison'
+  - excerpt: "<i>"Never be limited by other people's limited immagination"</i> <br/> Mae C. Jemison"
 
 hbp:
   - image_path: /assets/images/hbp.png
