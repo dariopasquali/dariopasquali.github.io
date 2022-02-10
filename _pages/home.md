@@ -4,6 +4,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home.jpg
+  caption: "The view from IIT offices"
 excerpt: >
   Postdoc Fellow @ <br/> COgNitive Architecture for Collaborative Technologies <br/> Istituto Italiano di Tecnologia
 
@@ -14,7 +15,7 @@ hbp:
   - image_path: /assets/images/hbp.png
     title: "PROMEN-AID"
     excerpt: "Develop a robot cognitive architecture with context awareness and functional memory to support humans in industrial workspaces"
-    url: "/research/promenaid"
+    url: "https://robotnik.eu/projects/promen-aid-en/"
     btn_class: "btn--primary"
     btn_label: "Read More"
 sea:
