@@ -1,6 +1,6 @@
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://dariopasquali.io" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
-title: "Dario Pasquali - PhD in Robotics and AI"
+title: "Dario Pasquali"
 email: "dario.pasquali93@gmail.com"
 phone: "+39 3247956801"
 address: "Via del Frullo, 11/4 Castenaso (BO) 40055"

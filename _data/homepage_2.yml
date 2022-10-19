@@ -1,11 +1,12 @@
 ################## Hero Area #######################
 hero_area:
-  title : "Design Studio"
-  image : "/assets/images/banner/banner-3.png"
-  content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna.<br>aliqua enim ad minim veniam quis."
+  background_image : "/assets/images/bg/banner-2.png"
+  title : "Dario Pasquali"
+  image : "/assets/images/cute_robot.png"
+  content : "TODO"
   button:
     enable : true
-    label : "Contact Us"
+    label : "Contact Me"
     link : "/contact"
 
 ###################### Services #####################
