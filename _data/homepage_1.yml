@@ -2,9 +2,9 @@
 hero_area:
   background_image : "/assets/images/bg/banner-2.png"
   subtitle: "Hi! I'm DARIO PASQUALI"
-  title : "Research in Social Robotics and Artificial Intelligence"
+  title : "Post Doc in Social Robotics and Artificial Intelligence"
   content : "TODO"
-  image : "/assets/images/robot_dance.gif"
+  image : "/assets/images/robot_dance_no_bg.gif"
   button:
     enable : true
     label : "Contact me"
