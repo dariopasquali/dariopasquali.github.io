@@ -108,3 +108,5 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+  - _elements/
+  - documentation/

@@ -1,7 +1,15 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Timeseries Analysis and Classification
+  percentage: 90
   color: info
 
-- name: Adobe Illustrator
+- name: Computer Vision
+  percentage: 70
+  color: success
+
+- name: Physiological Data Analysis (Pupillometry, GSR, HRV)
+  percentage: 90
+  color: success
+
+- name: Social Human-Robot Interaction Design
   percentage: 90
   color: success

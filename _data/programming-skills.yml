@@ -1,11 +1,19 @@
-- name: HTML5/CSS3
+- name: python
   percentage: 90
   color: danger
 
-- name: Go
+- name: Tensorflow & Keras
+  percentage: 70
+  color: danger
+
+- name: C++
   percentage: 80
   color:
 
-- name: Python
+- name: YARP
+  percentage: 90
+  color: secondary
+
+- name: ROSs
   percentage: 70
   color: secondary
