@@ -1,7 +1,5 @@
 ### Site Settings ###
-title               : >-
-                      Dario Pasquali
-                      Ph.D. in Robotics and AI
+title               : Dario Pasquali-PhD in Robotics and AI
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
@@ -22,7 +20,8 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - documentation/partials/**                           # For Documentation Only
+  - documentation/**                           # For Documentation Only
+  - elements/**                           # For Documentation Only
 
 
 ### Author Info ###
