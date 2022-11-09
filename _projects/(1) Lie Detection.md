@@ -1,7 +1,7 @@
 ---
 name: Lie Detection in Human-Robot Interaction
 tools: [Python, Scikit-learn, C++, YARP, Pupillometry]
-image: ld_valeria.png
+image: https://github.com/dariopasquali/dariopasquali.github.io/blob/portfolYOU/assets/ld_valeria.png
 description: TODO
 external_url: 
 ---
