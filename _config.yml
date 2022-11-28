@@ -1,7 +1,8 @@
 ### Site Settings ###
 title               : Dario Pasquali, Ph.D. 
 description         : >-
-                      Never be limited by other people's limited immagination 💡.
+                      Never be limited by other
+                      people's limited immagination 💡.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : dariopasquali/dariopasquali.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -25,7 +26,7 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Dario Pasquali
   image             : assets/me2.jpg
-  phone             : +393247956801
+  phone             : "+393247956801"
 # behance           : your_username
 # dribbble          : your_username
   email             : dario.pasquali93@gmail.com

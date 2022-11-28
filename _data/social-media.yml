@@ -7,8 +7,8 @@ behance:
   color : 1769ff
 
 phone:
-  url   : "mailto:"
-  icon  : fab fa-phone
+  url   : "tel:"
+  icon  : fa fa-phone
   color : 1769ff
 
 dribbble:
