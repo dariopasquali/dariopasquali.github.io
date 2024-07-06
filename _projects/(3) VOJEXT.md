@@ -1,7 +1,7 @@
 ---
 name: S+T+ARTS Project - Soft Collision (VOJEXT)
 tools: [Python, Scikit-learn, C++, YARP, Pupillometry]
-image: https://ars.electronica.art/starts-prize/files/2024/06/softcollision_1-c-michellemantel.jpg
+image: //freight.cargo.site/w/3500/q/75/i/3128a2f3922a72bd07887458a832704ef6f4ea39e79d5b4e179a3bebffc217e2/AnnaSchaeffner_RZ1A3730_MichelleMantel.JPG
 description: 
 external_url: 
 ---
