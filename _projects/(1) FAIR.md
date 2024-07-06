@@ -1,8 +1,8 @@
 ---
-name: Future Arificial Intelligence Research (FAIR)
+name: Embodied AI for Action and Perception
 tools: [Artificial Cognition, Unsupervised Learning, Python, YARP]
-image: https://fondazione-fair.it/wp-content/uploads/2024/02/Logo_FAIR_colore.svg
-description: WP 10.6 - Embodied AI for Action and Perception 
+image: https://raw.githubusercontent.com/dariopasquali/dariopasquali.github.io/portfolYOU/assets/robot.png
+description: Future Arificial Intelligence Research (FAIR)  
 external_url:
 ---
 
