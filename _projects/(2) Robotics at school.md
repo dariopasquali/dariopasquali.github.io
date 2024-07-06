@@ -1,7 +1,7 @@
 ---
 name: Robotics classes in primary and middle schools
 tools: [mTiny, mBot2, iRobot Root, MBlock, Scratch]
-image: https://raw.githubusercontent.com/dariopasquali/dariopasquali.github.io/portfolYOU/assets/ld_valeria.png
+image: https://raw.githubusercontent.com/dariopasquali/dariopasquali.github.io/portfolYOU/assets/school.png
 description: TODO
 external_url: 
 ---
