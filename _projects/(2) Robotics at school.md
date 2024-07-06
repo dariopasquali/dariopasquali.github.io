@@ -1,11 +1,13 @@
 ---
-name: Lie Detection in Human-Robot Interaction
-tools: [Python, Scikit-learn, C++, YARP, Pupillometry]
+name: Robotics classes in primary and middle schools
+tools: [mTiny, mBot2, iRobot Root, MBlock, Scratch]
 image: https://raw.githubusercontent.com/dariopasquali/dariopasquali.github.io/portfolYOU/assets/ld_valeria.png
 description: TODO
 external_url: 
 ---
 
-# Lie Detection in Human-Robot Interaction
+# Robotics classes in primary and middle schools
 
-TODO
+During A.S. 2022/23 and 2023/24, I taught two robotic courses in the Primary School M. Fresu (Castenaso) and middle school Maestre Pie (Bologna). In the middle school, I leveraged different robots based on the different ages, teaching the basics of coding and how to take advantage of the different robot features. In the middle school, used multiple mBot2 robots to teach students how to control them in a navigation setup, including telecomunication and optimization basics.
+
+![schools](../assets/school.png)
