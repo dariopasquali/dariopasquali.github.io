@@ -5,8 +5,8 @@ on:
         types: [completed]
 jobs:
   Generate-CV:
-    #runs-on: self-hosted
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
+    #runs-on: ubuntu-latest
     steps:
       - run: echo "Use Python to Convert the Markdown website to Latex"
       - run: echo "Use PDFLatex to generate the PDF"
