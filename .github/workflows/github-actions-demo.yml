@@ -14,8 +14,8 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - name: Upload the PDF as artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v2
         with:
           name: dario-cv
-          path: dariopasquali.github.io/latex/CV_eng.pdf
+          path: ./latex/CV_eng.pdf
           overwrite: true
