@@ -1,0 +1,841 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{PROMENAIDFrontiers}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=1ed9f7cd2cb176c27c734551db8b9f7e}{%
+           family={Jasmin},
+           familyi={J\bibinitperiod},
+           given={Bernotat},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f4825cf1f53ac2e85b06c0d506eb3ae}{%
+           family={Lorenzo},
+           familyi={L\bibinitperiod},
+           given={Landolfi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a482bf86f99c2e91f598da3e60256b7}{%
+           family={\textbs{Pasquali\bibnamedelimb Dario}},
+           familyi={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=e93ee269a6f4068131f600e815eb7b2e}{%
+           family={Alice},
+           familyi={A\bibinitperiod},
+           given={Nardelli},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a4e81755ba5f45a862a9a237bb6349a}{%
+           family={Francesco},
+           familyi={F\bibinitperiod},
+           given={Rea},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c306aff925cf30f6a57fdd479cef8041}
+      \strng{fullhash}{e9ba9e0c561f43535429ceef0418e09a}
+      \strng{bibnamehash}{c306aff925cf30f6a57fdd479cef8041}
+      \strng{authorbibnamehash}{c306aff925cf30f6a57fdd479cef8041}
+      \strng{authornamehash}{c306aff925cf30f6a57fdd479cef8041}
+      \strng{authorfullhash}{e9ba9e0c561f43535429ceef0418e09a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Robotics and AI}
+      \field{month}{7}
+      \field{title}{[SUBMITTED] Remember me - User-Centered Implementation and Training of Robot Working Memory for HRI in Industrial Settings}
+      \true{nocite}
+    \endentry
+    \entry{GROUND2024}{misc}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=05ad7daafb9d06d800baffb63539c3d5}{%
+           family={Pasquali},
+           familyi={P\bibinitperiod},
+           given={Dario},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2419f0685862e556e164eb46621d37d7}{%
+           family={Belgiovine},
+           familyi={B\bibinitperiod},
+           given={Giulia},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=baa459f77a93d15329200a82cedec484}{%
+           family={Lastrico},
+           familyi={L\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ca77eac6f50211065f37eb88da4fca0}{%
+           family={Pusceddu},
+           familyi={P\bibinitperiod},
+           given={Giulia},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc57093c282d170423dd6d8a00960948}{%
+           family={Cocchella},
+           familyi={C\bibinitperiod},
+           given={Francesca},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=018ef33971b06240988036d91767d739}{%
+           family={Tnaveska},
+           familyi={T\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Delft, Netherlands}%
+      }
+      \strng{namehash}{ab8672f0070929602bd16969b2a93f5a}
+      \strng{fullhash}{a4ddef4cb89b450a9de89f8cbfbe1c7f}
+      \strng{bibnamehash}{ab8672f0070929602bd16969b2a93f5a}
+      \strng{authorbibnamehash}{ab8672f0070929602bd16969b2a93f5a}
+      \strng{authornamehash}{ab8672f0070929602bd16969b2a93f5a}
+      \strng{authorfullhash}{a4ddef4cb89b450a9de89f8cbfbe1c7f}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Int. Conf. Robots, Science and Systems (RSS 2024)}
+      \field{month}{7}
+      \field{title}{\textbf{GROUND 2024 Workshop} - advancing GROup UNderstanding and robots' aDaptive behavior}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{doi}
+      \verb https://ground-hri.github.io/workshop/
+      \endverb
+    \endentry
+    \entry{GROUND2023}{misc}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=05ad7daafb9d06d800baffb63539c3d5}{%
+           family={Pasquali},
+           familyi={P\bibinitperiod},
+           given={Dario},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2419f0685862e556e164eb46621d37d7}{%
+           family={Belgiovine},
+           familyi={B\bibinitperiod},
+           given={Giulia},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=baa459f77a93d15329200a82cedec484}{%
+           family={Lastrico},
+           familyi={L\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ca77eac6f50211065f37eb88da4fca0}{%
+           family={Pusceddu},
+           familyi={P\bibinitperiod},
+           given={Giulia},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc57093c282d170423dd6d8a00960948}{%
+           family={Cocchella},
+           familyi={C\bibinitperiod},
+           given={Francesca},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=018ef33971b06240988036d91767d739}{%
+           family={Tnaveska},
+           familyi={T\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Busan, South Corea}%
+      }
+      \strng{namehash}{ab8672f0070929602bd16969b2a93f5a}
+      \strng{fullhash}{a4ddef4cb89b450a9de89f8cbfbe1c7f}
+      \strng{bibnamehash}{ab8672f0070929602bd16969b2a93f5a}
+      \strng{authorbibnamehash}{ab8672f0070929602bd16969b2a93f5a}
+      \strng{authornamehash}{ab8672f0070929602bd16969b2a93f5a}
+      \strng{authorfullhash}{a4ddef4cb89b450a9de89f8cbfbe1c7f}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ACM/IEEE Int. Conf. Robot and Human Interactive Communication (RO-MAN 2023)}
+      \field{month}{8}
+      \field{title}{\textbf{GROUND 2023 Workshop} - advancing GROup UNderstanding and robots' aDaptive behavior}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb https://ground-hri.github.io/workshop/1stEditionROMAN2023
+      \endverb
+    \endentry
+    \entry{PasqualiHAI2023}{inproceedings}{}
+      \name{author}{8}{ul=2}{%
+        {{un=0,uniquepart=base,hash=de0df21ceab424001e9e587fe3ce523f}{%
+           family={\textbf{Pasquali\bibnamedelimb Dario}},
+           familyi={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=b9552f45e7308edd8d0c9228fc689338}{%
+           family={Austin},
+           familyi={A\bibinitperiod},
+           given={Kothig},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aca82881e2003a4554774b784723a21d}{%
+           family={M.},
+           familyi={M\bibinitperiod},
+           given={Aoryo\bibnamedelima Alexander},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a462cb66d0cbbdf657c62fd51dba3247}{%
+           family={John},
+           familyi={J\bibinitperiod},
+           given={Muñoz},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3bf65cdb872fa4bdbb3a22ad6748815}{%
+           family={Kerstin},
+           familyi={K\bibinitperiod},
+           given={Dautenhahn},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a4e81755ba5f45a862a9a237bb6349a}{%
+           family={Francesco},
+           familyi={F\bibinitperiod},
+           given={Rea},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=386e6f5c25946837e577aec7498af936}{%
+           family={Stefano},
+           familyi={S\bibinitperiod},
+           given={Bencetti},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=666fbe348b5d9db0bc79e8bbce9ecd6b}{%
+           family={Alessandra},
+           familyi={A\bibinitperiod},
+           given={Sciutti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{201b83f5f47476d6afcc855d45e95c28}
+      \strng{fullhash}{3d31b0dcb0872c95943635e1023d65f4}
+      \strng{bibnamehash}{201b83f5f47476d6afcc855d45e95c28}
+      \strng{authorbibnamehash}{201b83f5f47476d6afcc855d45e95c28}
+      \strng{authornamehash}{201b83f5f47476d6afcc855d45e95c28}
+      \strng{authorfullhash}{3d31b0dcb0872c95943635e1023d65f4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ACM Int. Conf. Human-Agent Interaction (HAI 2023)}
+      \field{month}{12}
+      \field{title}{{That's not a Good Idea: A Robot Changes Your Behavior Against Social Engineering}}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
+    \entry{PasqualiROMAN2023}{inproceedings}{}
+      \name{author}{5}{ul=2}{%
+        {{un=0,uniquepart=base,hash=de0df21ceab424001e9e587fe3ce523f}{%
+           family={\textbf{Pasquali\bibnamedelimb Dario}},
+           familyi={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=4f4825cf1f53ac2e85b06c0d506eb3ae}{%
+           family={Lorenzo},
+           familyi={L\bibinitperiod},
+           given={Landolfi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e93ee269a6f4068131f600e815eb7b2e}{%
+           family={Alice},
+           familyi={A\bibinitperiod},
+           given={Nardelli},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ed9f7cd2cb176c27c734551db8b9f7e}{%
+           family={Jasmin},
+           familyi={J\bibinitperiod},
+           given={Bernotat},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a4e81755ba5f45a862a9a237bb6349a}{%
+           family={Francesco},
+           familyi={F\bibinitperiod},
+           given={Rea},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{628e06b582cf13275399886bd375d228}
+      \strng{fullhash}{ec7b4b1203518feddcab601d914a133a}
+      \strng{bibnamehash}{628e06b582cf13275399886bd375d228}
+      \strng{authorbibnamehash}{628e06b582cf13275399886bd375d228}
+      \strng{authornamehash}{628e06b582cf13275399886bd375d228}
+      \strng{authorfullhash}{ec7b4b1203518feddcab601d914a133a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ACM/IEEE Int. Conf. Robot and Human Interactive Communication (RO-MAN 2023)}
+      \field{month}{8}
+      \field{title}{{Working Memory-Based Architecture for Human-Aware Navigation in Industrial Settings}}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
+    \entry{PasqualiCREAI2022}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=de0df21ceab424001e9e587fe3ce523f}{%
+           family={\textbf{Pasquali\bibnamedelimb Dario}},
+           familyi={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=7a4e81755ba5f45a862a9a237bb6349a}{%
+           family={Francesco},
+           familyi={F\bibinitperiod},
+           given={Rea},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=666fbe348b5d9db0bc79e8bbce9ecd6b}{%
+           family={Alessandra},
+           familyi={A\bibinitperiod},
+           given={Sciutti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {CEUR-WS}%
+      }
+      \strng{namehash}{13af5f19d96baefb7782a3103ce3628c}
+      \strng{fullhash}{13af5f19d96baefb7782a3103ce3628c}
+      \strng{bibnamehash}{13af5f19d96baefb7782a3103ce3628c}
+      \strng{authorbibnamehash}{13af5f19d96baefb7782a3103ce3628c}
+      \strng{authornamehash}{13af5f19d96baefb7782a3103ce3628c}
+      \strng{authorfullhash}{13af5f19d96baefb7782a3103ce3628c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{AI*IA 2022 - 1st Workshop on Artificial Intelligence and Creativity (CREAI2022)}
+      \field{month}{11}
+      \field{title}{{Detecting Lies in the Wild: Creativity and Learning @ the Maker Faire Rome}}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{Aroyo2021}{article}{}
+      \name{author}{6}{}{%
+        {{un=2,uniquepart=given,hash=225fbac843323a8b91e32b8423295d75}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={Aroyo\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=de0df21ceab424001e9e587fe3ce523f}{%
+           family={\textbf{Pasquali\bibnamedelimb Dario}},
+           familyi={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=b9552f45e7308edd8d0c9228fc689338}{%
+           family={Austin},
+           familyi={A\bibinitperiod},
+           given={Kothig},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a4e81755ba5f45a862a9a237bb6349a}{%
+           family={Francesco},
+           familyi={F\bibinitperiod},
+           given={Rea},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e730429005f8741cf2a1b14925a1753c}{%
+           family={Giulio},
+           familyi={G\bibinitperiod},
+           given={Sandini},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=666fbe348b5d9db0bc79e8bbce9ecd6b}{%
+           family={Alessandra},
+           familyi={A\bibinitperiod},
+           given={Sciutti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers Inc.}%
+      }
+      \strng{namehash}{69635b56d2127895512834fb8bc23709}
+      \strng{fullhash}{d19ed27bba6068d8193e3eafd068b412}
+      \strng{bibnamehash}{69635b56d2127895512834fb8bc23709}
+      \strng{authorbibnamehash}{69635b56d2127895512834fb8bc23709}
+      \strng{authornamehash}{69635b56d2127895512834fb8bc23709}
+      \strng{authorfullhash}{d19ed27bba6068d8193e3eafd068b412}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{23773766}
+      \field{journaltitle}{IEEE Robot. Autom. Lett.}
+      \field{month}{7}
+      \field{number}{3}
+      \field{title}{{Expectations Vs. Reality: Unreliability and Transparency in a Treasure Hunt Game with iCub}}
+      \field{volume}{6}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{5681\bibrangedash 5688}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/LRA.2021.3083465
+      \endverb
+      \keyw{Social HRI,acceptability and trust,human-robot collaboration,transparency,unreliability}
+    \endentry
+    \entry{PasqualiICSR2021}{inproceedings}{}
+      \name{author}{5}{ul=2}{%
+        {{un=0,uniquepart=base,hash=de0df21ceab424001e9e587fe3ce523f}{%
+           family={\textbf{Pasquali\bibnamedelimb Dario}},
+           familyi={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=cb530f5b531c9683436db61e117ca45b}{%
+           family={Davide},
+           familyi={D\bibinitperiod},
+           given={Gaggero},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2ab8fb4e897a98ce71e1109b8023a46}{%
+           family={Gualtiero},
+           familyi={G\bibinitperiod},
+           given={Volpe},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a4e81755ba5f45a862a9a237bb6349a}{%
+           family={Francesco},
+           familyi={F\bibinitperiod},
+           given={Rea},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=666fbe348b5d9db0bc79e8bbce9ecd6b}{%
+           family={Alessandra},
+           familyi={A\bibinitperiod},
+           given={Sciutti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer, Cham}%
+      }
+      \strng{namehash}{ec7251901f29cf16b915a4695b8333fb}
+      \strng{fullhash}{7db076669eb19e6b5eb42ec35d7de5a3}
+      \strng{bibnamehash}{ec7251901f29cf16b915a4695b8333fb}
+      \strng{authorbibnamehash}{ec7251901f29cf16b915a4695b8333fb}
+      \strng{authornamehash}{ec7251901f29cf16b915a4695b8333fb}
+      \strng{authorfullhash}{7db076669eb19e6b5eb42ec35d7de5a3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ACM/IEEE Int. Conf. on Social Robotics (ICSR)}
+      \field{month}{11}
+      \field{title}{{Human vs Robot Lie Detector: Better Working as a Team?}}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1007/978-3-030-90525-5_14
+      \endverb
+    \endentry
+    \entry{Pasquali2021}{article}{}
+      \name{author}{6}{ul=3}{%
+        {{un=0,uniquepart=base,hash=de0df21ceab424001e9e587fe3ce523f}{%
+           family={\textbf{Pasquali\bibnamedelimb Dario}},
+           familyi={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=17d2cdc252ace2dc7daf5e32a168e371}{%
+           family={Jonas},
+           familyi={J\bibinitperiod},
+           given={Gonzalez-Billandon},
+           giveni={G\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=2,uniquepart=given,hash=cdd10cab3d7df2b5dec0d1a50f4d4477}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={Aroyo\bibnamedelima Mois},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=e730429005f8741cf2a1b14925a1753c}{%
+           family={Giulio},
+           familyi={G\bibinitperiod},
+           given={Sandini},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=666fbe348b5d9db0bc79e8bbce9ecd6b}{%
+           family={Alessandra},
+           familyi={A\bibinitperiod},
+           given={Sciutti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a4e81755ba5f45a862a9a237bb6349a}{%
+           family={Francesco},
+           familyi={F\bibinitperiod},
+           given={Rea},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{6b539664024686573bbf5d260b930677}
+      \strng{fullhash}{b40444c47403909f36e6cf8f977c15b9}
+      \strng{bibnamehash}{6b539664024686573bbf5d260b930677}
+      \strng{authorbibnamehash}{6b539664024686573bbf5d260b930677}
+      \strng{authornamehash}{6b539664024686573bbf5d260b930677}
+      \strng{authorfullhash}{b40444c47403909f36e6cf8f977c15b9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1875-4805}
+      \field{journaltitle}{Int. J. Soc. Robot. 2021}
+      \field{month}{11}
+      \field{title}{{Detecting Lies is a Child (Robot)'s Play: Gaze-Based Lie Detection in HRI}}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/S12369-021-00822-5
+      \endverb
+    \endentry
+    \entry{PasqualiHRI2021}{inproceedings}{}
+      \name{author}{5}{ul=3}{%
+        {{un=0,uniquepart=base,hash=de0df21ceab424001e9e587fe3ce523f}{%
+           family={\textbf{Pasquali\bibnamedelimb Dario}},
+           familyi={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=17d2cdc252ace2dc7daf5e32a168e371}{%
+           family={Jonas},
+           familyi={J\bibinitperiod},
+           given={Gonzalez-Billandon},
+           giveni={G\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a4e81755ba5f45a862a9a237bb6349a}{%
+           family={Francesco},
+           familyi={F\bibinitperiod},
+           given={Rea},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e730429005f8741cf2a1b14925a1753c}{%
+           family={Giulio},
+           familyi={G\bibinitperiod},
+           given={Sandini},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=666fbe348b5d9db0bc79e8bbce9ecd6b}{%
+           family={Alessandra},
+           familyi={A\bibinitperiod},
+           given={Sciutti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society}%
+      }
+      \strng{namehash}{be3b81722ce9654fa476d4e1d47f536a}
+      \strng{fullhash}{d937682ef3f5037bfe17bb6e6974ba2e}
+      \strng{bibnamehash}{be3b81722ce9654fa476d4e1d47f536a}
+      \strng{authorbibnamehash}{be3b81722ce9654fa476d4e1d47f536a}
+      \strng{authornamehash}{be3b81722ce9654fa476d4e1d47f536a}
+      \strng{authorfullhash}{d937682ef3f5037bfe17bb6e6974ba2e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ACM/IEEE Int. Conf. Human-Robot Interact.}
+      \field{isbn}{9781450382892}
+      \field{issn}{21672148}
+      \field{month}{3}
+      \field{title}{{Magic iCub: A humanoid robot autonomously catching your lies in a card game}}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{293\bibrangedash 302}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/3434073.3444682
+      \endverb
+    \endentry
+    \entry{Aroyo2020}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{un=2,uniquepart=given,hash=225fbac843323a8b91e32b8423295d75}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={Aroyo\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=de0df21ceab424001e9e587fe3ce523f}{%
+           family={\textbf{Pasquali\bibnamedelimb Dario}},
+           familyi={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=b9552f45e7308edd8d0c9228fc689338}{%
+           family={Austin},
+           familyi={A\bibinitperiod},
+           given={Kothig},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a4e81755ba5f45a862a9a237bb6349a}{%
+           family={Francesco},
+           familyi={F\bibinitperiod},
+           given={Rea},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e730429005f8741cf2a1b14925a1753c}{%
+           family={Giulio},
+           familyi={G\bibinitperiod},
+           given={Sandini},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=666fbe348b5d9db0bc79e8bbce9ecd6b}{%
+           family={Alessandra},
+           familyi={A\bibinitperiod},
+           given={Sciutti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{69635b56d2127895512834fb8bc23709}
+      \strng{fullhash}{d19ed27bba6068d8193e3eafd068b412}
+      \strng{bibnamehash}{69635b56d2127895512834fb8bc23709}
+      \strng{authorbibnamehash}{69635b56d2127895512834fb8bc23709}
+      \strng{authornamehash}{69635b56d2127895512834fb8bc23709}
+      \strng{authorfullhash}{d19ed27bba6068d8193e3eafd068b412}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{RO-MAN 2020 - Trust. Accept. Soc. Cues Human-Robot Interact. - SCRITA}
+      \field{title}{{Perceived differences between on-line and real robotic failures}}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{Pasquali2020}{inproceedings}{}
+      \name{author}{6}{ul=2}{%
+        {{un=0,uniquepart=base,hash=de0df21ceab424001e9e587fe3ce523f}{%
+           family={\textbf{Pasquali\bibnamedelimb Dario}},
+           familyi={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{un=2,uniquepart=given,hash=cdd10cab3d7df2b5dec0d1a50f4d4477}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={Aroyo\bibnamedelima Mois},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=17d2cdc252ace2dc7daf5e32a168e371}{%
+           family={Jonas},
+           familyi={J\bibinitperiod},
+           given={Gonzalez-Billandon},
+           giveni={G\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a4e81755ba5f45a862a9a237bb6349a}{%
+           family={Francesco},
+           familyi={F\bibinitperiod},
+           given={Rea},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e730429005f8741cf2a1b14925a1753c}{%
+           family={Giulio},
+           familyi={G\bibinitperiod},
+           given={Sandini},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=666fbe348b5d9db0bc79e8bbce9ecd6b}{%
+           family={Alessandra},
+           familyi={A\bibinitperiod},
+           given={Sciutti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society}%
+      }
+      \strng{namehash}{4b64d2109419429cc64f5daa68c129ba}
+      \strng{fullhash}{d614e7447879a9e10ff0e43a2ed17195}
+      \strng{bibnamehash}{4b64d2109419429cc64f5daa68c129ba}
+      \strng{authorbibnamehash}{4b64d2109419429cc64f5daa68c129ba}
+      \strng{authornamehash}{4b64d2109419429cc64f5daa68c129ba}
+      \strng{authorfullhash}{d614e7447879a9e10ff0e43a2ed17195}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781450370578}
+      \field{issn}{21672148}
+      \field{journaltitle}{ACM/IEEE Int. Conf. Human-Robot Interact. - Late Breaking Reports - LBR}
+      \field{month}{3}
+      \field{title}{{Your eyes never lie: A robot magician can tell if you are lying}}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{392\bibrangedash 394}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1145/3371382.3378253
+      \endverb
+      \keyw{Human-robot interaction,Humanoid robot,Lie detection,Machine learning,Pupillometry}
+    \endentry
+    \entry{Pasquali}{inproceedings}{}
+      \name{author}{6}{ul=2}{%
+        {{un=0,uniquepart=base,hash=de0df21ceab424001e9e587fe3ce523f}{%
+           family={\textbf{Pasquali\bibnamedelimb Dario}},
+           familyi={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{un=1,uniquepart=given,hash=abf8be98e935817c12ae8e4f9a2dbbb7}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={M.\bibnamedelimi Aroyo},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=17d2cdc252ace2dc7daf5e32a168e371}{%
+           family={Jonas},
+           familyi={J\bibinitperiod},
+           given={Gonzalez-Billandon},
+           giveni={G\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a4e81755ba5f45a862a9a237bb6349a}{%
+           family={Francesco},
+           familyi={F\bibinitperiod},
+           given={Rea},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e730429005f8741cf2a1b14925a1753c}{%
+           family={Giulio},
+           familyi={G\bibinitperiod},
+           given={Sandini},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=666fbe348b5d9db0bc79e8bbce9ecd6b}{%
+           family={Alessandra},
+           familyi={A\bibinitperiod},
+           given={Sciutti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aeb98484874cb0f4705c1feb32462074}
+      \strng{fullhash}{386306e88c1145075d3c4e26927c4265}
+      \strng{bibnamehash}{aeb98484874cb0f4705c1feb32462074}
+      \strng{authorbibnamehash}{aeb98484874cb0f4705c1feb32462074}
+      \strng{authornamehash}{aeb98484874cb0f4705c1feb32462074}
+      \strng{authorfullhash}{386306e88c1145075d3c4e26927c4265}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ACM/IEEE Int. Conf. Human-Robot Interact. Workshop on Creative Content on Social Robotics}
+      \field{month}{3}
+      \field{title}{{Do You See the Magic? An Autonomous Robot Magician Can Read Your Mind}}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{10.3389/frobt.2019.00064}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=17d2cdc252ace2dc7daf5e32a168e371}{%
+           family={Jonas},
+           familyi={J\bibinitperiod},
+           given={Gonzalez-Billandon},
+           giveni={G\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b78e6f652685fe4f1dea605b3a05fdd5}{%
+           family={M.},
+           familyi={M\bibinitperiod},
+           given={Aroyo\bibnamedelima Alexander},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6af3e0fb6655b20e87ce93e148d5a93}{%
+           family={Alessia},
+           familyi={A\bibinitperiod},
+           given={Tonelli},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de0df21ceab424001e9e587fe3ce523f}{%
+           family={\textbf{Pasquali\bibnamedelimb Dario}},
+           familyi={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=666fbe348b5d9db0bc79e8bbce9ecd6b}{%
+           family={Alessandra},
+           familyi={A\bibinitperiod},
+           given={Sciutti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ac47f1015ffd883dcd1a71fab4eedd0}{%
+           family={Monica},
+           familyi={M\bibinitperiod},
+           given={Gori},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e730429005f8741cf2a1b14925a1753c}{%
+           family={Giulio},
+           familyi={G\bibinitperiod},
+           given={Sandini},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a4e81755ba5f45a862a9a237bb6349a}{%
+           family={Francesco},
+           familyi={F\bibinitperiod},
+           given={Rea},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d598619e35b8bb5065795bbf49f25731}
+      \strng{fullhash}{149a783517b69dec305b8b59092009d2}
+      \strng{bibnamehash}{d598619e35b8bb5065795bbf49f25731}
+      \strng{authorbibnamehash}{d598619e35b8bb5065795bbf49f25731}
+      \strng{authornamehash}{d598619e35b8bb5065795bbf49f25731}
+      \strng{authorfullhash}{149a783517b69dec305b8b59092009d2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2296-9144}
+      \field{journaltitle}{Frontiers in Robotics and AI}
+      \field{month}{7}
+      \field{title}{Can a Robot Catch You Lying? A Machine Learning System to Detect Lies During Interactions}
+      \field{volume}{6}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{64}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/frobt.2019.00064
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
