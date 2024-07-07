@@ -23,6 +23,12 @@ jobs:
         run: |
           ls ${{ github.workspace }}
 
+      - name: Build Latex CV
+        run: |
+          pdflatex -job-name=latex/CV_eng mmayer.tex
+          biber latex/CV_eng.bcf
+          pdflatex -job-name=latex/CV_eng mmayer.tex
+
       - name: Upload the PDF as artifact
         uses: actions/upload-artifact@v4
         with:

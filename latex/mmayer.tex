@@ -1,0 +1,126 @@
+\documentclass[10pt,a4paper,ragged2e]{altacv}
+\geometry{left=2cm,right=10cm,marginparwidth=6.8cm,marginparsep=1.2cm,top=1.25cm,bottom=1.25cm}
+\ifxetexorluatex
+  \setmainfont{Carlito}
+\else
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage[default]{lato}
+\fi
+\usepackage[utf8]{inputenc}
+\definecolor{VividPurple}{HTML}{000000}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{2E2E2E}
+\colorlet{heading}{VividPurple}
+\colorlet{accent}{VividPurple}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+\renewcommand{\itemmarker}{{\small\textbullet}}
+\renewcommand{\ratingmarker}{\faCircle}
+\addbibresource{sample.bib}
+
+\usepackage{ragged2e}
+
+\begin{document}
+\name{DARIO PASQUALI}
+\tagline{Post Doc @ Istituto Italiano di Tecnologia}
+% Cropped to square from https://en.wikipedia.org/wiki/Marissa_Mayer#/media/File:Marissa_Mayer_May_2014_(cropped).jpg, CC-BY 2.0
+\photo{3.3cm}{me3.jpg}
+\personalinfo{%
+  % Not all of these are required!
+  % You can add your own with \printinfo{symbol}{detail}
+  \email{dario.pasquali@iit.it}
+  \email{dario.pasquali93@gmail.com}
+  \phone{(+39) 324 7956801}
+%  \mailaddress{Address, Street, 00000 County}
+  \location{Bologna - Italy}
+  \homepage{https://dariopasquali.github.io/}
+%  \twitter{@marissamayer}
+  \linkedin{https://www.linkedin.com/in/dario-pasquali/}
+%  \orcid{orcid.org/0000-0000-0000-0000} % Obviously making this up too. If you want to use this field (and also other academicons symbols), add "academicons" option to \documentclass{altacv}
+}
+
+%% Make the header extend all the way to the right, if you want.
+\begin{fullwidth}
+\makecvheader
+\end{fullwidth}
+
+%% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
+\AtBeginEnvironment{itemize}{\small}
+
+%% Provide the file name containing the sidebar contents as an optional parameter to \cvsection.
+%% You can always just use \marginpar{...} if you do
+%% not need to align the top of the contents to any
+%% \cvsection title in the "main" bar.
+\cvsection[page1sidebar]{Experience}
+
+\cvevent{Post Doc - IIT}{COgNiTive Architectures for Collaborative Technologies}{Feb 2022 -- Present}{Genova, Italy}
+\textbf{Proactive Memory iN AI for Development}\\
+Develop a bio-inspired cognitive architecture enabling the RB-Kairos rover (Robotnik) with context spatial awareness and working functional memory to ensure the safety of human workers in industrial enviroment. [ROS, Python]
+
+\divider
+
+\cvevent{PhD Candidate - IIT}{RBCS and ICT Departments}{Nov 2018 -- July 2022}{Genova, Italy}
+\textbf{Cyber Security and Social Engineering in Human-Robot Interaction.}\\
+Machine-learning based real-time evaluation of pupillometry, heart rate and electrodermal activity to predict the compliance with Social Engineering attacks, and detect human deception in human-robot interaction with Machine Learning models. [YARP, Python, C++]
+
+\divider
+
+\cvevent{Big Data Engineer}{Data Reply}{Oct 2017 - Nov 2018}{Milan and Bologna, Italy}
+Design and development of architectures for the management and real-time processing of Big Data in the vehicle insurance field. [Python, Scala, Spark, DevOps, Cloudera CDH]
+
+
+\cvsection{TECHNICAL SKILLS}
+\smallskip
+\begin{itemize}
+\item Python, C++, Scala, Java, C\#, C, Prolog.
+\smallskip
+\item Keras, Tensorflow, PyTorch, OpenCV, YARP, Cloudera CDH, Spark, Ansible, Jenkins, ROS, YARP
+\smallskip
+\end{itemize}
+\cvsection{PERSONAL SKILLS}
+\smallskip
+\begin{itemize}
+\item Team-working and passion toward mentoring and leadership
+\smallskip
+\item Extremely curious and always eager to expand my knowledge
+\smallskip
+\item Initiative-taker in problem solving and used to lateral thinking
+\end{itemize}
+
+\cvsection{Hobbies}
+Miniature painting, Beer homebrewing, Cooking
+
+\cvsection{Achievements}
+\smallskip
+Successfully planning my wedding and leading the renovation of my future house, while doing a PhD in a different city, during the pandemic.
+
+\clearpage
+
+\begin{fullwidth}
+
+\cvsection[page2sidebar]{Organized Events}
+  
+\printbibliography[heading=pubtype,title=\empty, type=misc]
+  
+\cvsection[page2sidebar]{Publications}
+  
+\nocite{*}
+  
+\printbibliography[heading=pubtype,title={\printinfo{\faFileTextO}{Journal}}, type=article]
+  
+\divider 
+  
+\printbibliography[heading=pubtype,title={\printinfo{\faFileTextO}{Conference Proceedings}}, type=inproceedings]
+  
+\end{fullwidth}
+
+% %% If the NEXT page doesn't start with a \cvsection but you'd
+% %% still like to add a sidebar, then use this command on THIS
+% %% page to add it. The optional argument lets you pull up the
+% %% sidebar a bit so that it looks aligned with the top of the
+% %% main column.
+% \addnextpagesidebar[-1ex]{page2sidebar}
+
+
+\end{document}

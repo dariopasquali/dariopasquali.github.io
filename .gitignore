@@ -10,3 +10,12 @@ Gemfile.lock
 
 # Log Files
 *.log
+
+# Latex Garbage
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.pdf
+*.run.xml
