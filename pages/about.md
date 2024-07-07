@@ -7,12 +7,12 @@ weight: 1
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-I'm a Post Doc Researcher at the Italian Institute of Technology. My research is two-folded. On one side, I leverage Cognitive Architectures and Deep Learning to enable the humanoid robot iCub with embodied and personalized **Artificial Cognition**, i.e., the ability to autonomously learn from everyday first-person experiences. I hope this will help the development of better social robot, able to self-adapt to humans' world. On the other side, I'm developing the **MyCUbe** a medical device to assess, track and train the objects manipulation skills of children and adults. I believe the MyCube will greatly help better understand and support children neurotypical children pursuing a better wellbeing.
+Hi, I'm **{{ site.author.name }}** :wave:,<br>
+I'm a Postdoctoral Researcher at the Italian Institute of Technology. My research focuses on two exciting areas. First, I leverage **Cognitive Architectures and Deep Learning** to empower the humanoid robot iCub with embodied and personalized **Artificial Cognition**. This involves enabling the robot to autonomously learn from everyday first-person experiences, with the goal of developing advanced social robots that can adapt seamlessly to the human world. Second, I'm developing **MyCube**, a medical device designed to assess, track, and train **objects manipulation skills in children and adults**. I believe MyCube will significantly enhance our understanding and support of children's well-being, especially those who are neurotypical.
 
-**Software Engineering** is my main expertise, with extensive experience in the design and implementation of end-to-end architectures, integrating **sensors and devices**, **Machine Learning and LLM components**, and high-level **UX** and behaviors. I daily work in team, mentoring younger students. I'm extremely curious and I always apply lateral thinking to solve problems.
+Software Engineering is my primary expertise. I have extensive experience designing and implementing end-to-end architectures that integrate sensors and devices, Machine Learning and LLM components, and high-level UX and behaviors. I collaborate daily with teams and mentor younger students, driven by my insatiable curiosity and knack for lateral thinking in problem-solving.
 
-I love **cooking** and homebrewing beer - it's quite like programming!. I weekly **play board and card games** with friends; I'm a Magic the Gathering Nerd, always looking for interesting strategies to bring at the table.
+Beyond the lab, I'm passionate about cooking and homebrewing beer—it’s a lot like programming! I also enjoy playing board and card games with friends every week. As a Magic: The Gathering enthusiast, I'm always on the lookout for interesting strategies to bring to the table.
 
 ## **Work Experience**
 
