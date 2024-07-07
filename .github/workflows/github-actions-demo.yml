@@ -17,5 +17,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: dario-cv
-          path: ./latex/CV_eng.pdf
-          overwrite: true
+          path: latex/CV_eng.pdf
