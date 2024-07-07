@@ -19,3 +19,6 @@ Gemfile.lock
 *.log
 *.pdf
 *.run.xml
+.fbd_latexmk
+.fls
+.synctex.gz

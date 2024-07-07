@@ -27,25 +27,11 @@ author:
   name              : Dario Pasquali
   image             : assets/me2.jpg
   phone             : "+393247956801"
-# behance           : your_username
-# dribbble          : your_username
   email             : dario.pasquali93@gmail.com
-# facebook          : your_username
   github            : dariopasquali
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
   linkedin          : dario-pasquali
-# medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
   twitter           : DarioPasquali
-# vimeo             : your_username
-# youtube           : your_channel_name
-# keybase           : your_username
+  orcid             : 0000-0001-8185-8188
 
 
 ### Posts ###

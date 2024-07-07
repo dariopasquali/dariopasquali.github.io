@@ -17,12 +17,6 @@ jobs:
 
       - run: echo "Use Python to Convert the Markdown website to Latex"
 
-      - run: echo "Use PDFLatex to generate the PDF"
-
-      - name: List files in the repository
-        run: |
-          ls ${{ github.workspace }}
-
       - name: Build Latex CV
         run: |
           cd latex

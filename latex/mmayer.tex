@@ -24,35 +24,27 @@
 \begin{document}
 \name{DARIO PASQUALI}
 \tagline{Post Doc @ Istituto Italiano di Tecnologia}
-% Cropped to square from https://en.wikipedia.org/wiki/Marissa_Mayer#/media/File:Marissa_Mayer_May_2014_(cropped).jpg, CC-BY 2.0
+
 \photo{3.3cm}{me3.jpg}
-\personalinfo{%
-  % Not all of these are required!
-  % You can add your own with \printinfo{symbol}{detail}
+\personalinfo{
+
   \email{dario.pasquali@iit.it}
   \email{dario.pasquali93@gmail.com}
   \phone{(+39) 324 7956801}
-%  \mailaddress{Address, Street, 00000 County}
   \location{Bologna - Italy}
   \homepage{https://dariopasquali.github.io/}
-%  \twitter{@marissamayer}
   \linkedin{https://www.linkedin.com/in/dario-pasquali/}
-%  \orcid{orcid.org/0000-0000-0000-0000} % Obviously making this up too. If you want to use this field (and also other academicons symbols), add "academicons" option to \documentclass{altacv}
 }
 
 %% Make the header extend all the way to the right, if you want.
 \begin{fullwidth}
-\makecvheader
+  \makecvheader
 \end{fullwidth}
 
 %% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
 \AtBeginEnvironment{itemize}{\small}
 
-%% Provide the file name containing the sidebar contents as an optional parameter to \cvsection.
-%% You can always just use \marginpar{...} if you do
-%% not need to align the top of the contents to any
-%% \cvsection title in the "main" bar.
-\cvsection[page1sidebar]{Experience}
+\cvsection[page1sidebar]{Work Experience}
 
 \cvevent{Post Doc - IIT}{COgNiTive Architectures for Collaborative Technologies}{Feb 2022 -- Present}{Genova, Italy}
 \textbf{Proactive Memory iN AI for Development}\\
@@ -73,19 +65,19 @@ Design and development of architectures for the management and real-time process
 \cvsection{TECHNICAL SKILLS}
 \smallskip
 \begin{itemize}
-\item Python, C++, Scala, Java, C\#, C, Prolog.
-\smallskip
-\item Keras, Tensorflow, PyTorch, OpenCV, YARP, Cloudera CDH, Spark, Ansible, Jenkins, ROS, YARP
-\smallskip
+  \item Python, C++, Scala, Java, C\#, C, Prolog.
+        \smallskip
+  \item Keras, Tensorflow, PyTorch, OpenCV, YARP, Cloudera CDH, Spark, Ansible, Jenkins, ROS, YARP
+        \smallskip
 \end{itemize}
 \cvsection{PERSONAL SKILLS}
 \smallskip
 \begin{itemize}
-\item Team-working and passion toward mentoring and leadership
-\smallskip
-\item Extremely curious and always eager to expand my knowledge
-\smallskip
-\item Initiative-taker in problem solving and used to lateral thinking
+  \item Team-working and passion toward mentoring and leadership
+        \smallskip
+  \item Extremely curious and always eager to expand my knowledge
+        \smallskip
+  \item Initiative-taker in problem solving and used to lateral thinking
 \end{itemize}
 
 \cvsection{Hobbies}
@@ -99,28 +91,20 @@ Successfully planning my wedding and leading the renovation of my future house, 
 
 \begin{fullwidth}
 
-\cvsection[page2sidebar]{Organized Events}
-  
-\printbibliography[heading=pubtype,title=\empty, type=misc]
-  
-\cvsection[page2sidebar]{Publications}
-  
-\nocite{*}
-  
-\printbibliography[heading=pubtype,title={\printinfo{\faFileTextO}{Journal}}, type=article]
-  
-\divider 
-  
-\printbibliography[heading=pubtype,title={\printinfo{\faFileTextO}{Conference Proceedings}}, type=inproceedings]
-  
+  \cvsection[page2sidebar]{Organized Events}
+
+  \printbibliography[heading=pubtype,title=\empty, type=misc]
+
+  \cvsection[page2sidebar]{Publications}
+
+  \nocite{*}
+
+  \printbibliography[heading=pubtype,title={\printinfo{\faFileTextO}{Journal}}, type=article]
+
+  \divider
+
+  \printbibliography[heading=pubtype,title={\printinfo{\faFileTextO}{Conference Proceedings}}, type=inproceedings]
+
 \end{fullwidth}
-
-% %% If the NEXT page doesn't start with a \cvsection but you'd
-% %% still like to add a sidebar, then use this command on THIS
-% %% page to add it. The optional argument lets you pull up the
-% %% sidebar a bit so that it looks aligned with the top of the
-% %% main column.
-% \addnextpagesidebar[-1ex]{page2sidebar}
-
 
 \end{document}

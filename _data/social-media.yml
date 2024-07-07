@@ -100,3 +100,8 @@ keybase:
   url   : https://www.keybase.io/
   icon  : fab fa-keybase
   color : 66ccff
+
+orcid:
+  url   : https://orcid.org/
+  icon  : fa-brands fa-orcid
+  color : 66ccff
