@@ -2,7 +2,7 @@
 title               : Dario Pasquali, Ph.D. 
 description         : >-
                       Creativity is seeing what others see 
-                      and thinking what no one else ever thought 💡.
+                      and thinking what no one else ever thought 💡
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : dariopasquali/dariopasquali.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
