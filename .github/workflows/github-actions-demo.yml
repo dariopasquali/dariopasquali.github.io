@@ -10,8 +10,12 @@ jobs:
     steps:
       - run: echo "Use Python to Convert the Markdown website to Latex"
       - run: echo "Use PDFLatex to generate the PDF"
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
       - name: Upload the PDF as artifact
         uses: actions/upload-artifact@v4
         with:
           name: dario-cv
-          path: generated/CV_eng.pdf
+          path: latex/CV_eng.pdf
+          overwrite: true
