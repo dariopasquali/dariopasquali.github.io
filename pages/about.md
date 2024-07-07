@@ -21,3 +21,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <div class="row">
 {% include about/education.html %}
 </div>
+
+## Publications
+
+### Journal
+
+<div class="row">
+{% include about/journals.html %}
+</div>

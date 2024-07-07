@@ -6,7 +6,8 @@
   description: Actively working on National (<a href="https://dariopasquali.github.io/projects/1-fair"><b>FAIR</b></a>) and European (<a href="https://dariopasquali.github.io/projects/2-ariel"><b>ARIEL</b></a>) research projects. Reference person in the laboratory for architectural and Software Engineering matters. Tutoring bachelor and master internship students, and mentoring PhD candidates.
   competences: [Cognitive Architectures, Deep Learning, Data Analysis, Research Planning]
   tools: [ROS, YARP, Python, C++]
-  robots: [ICub, RB-KAIROS+]
+  robots: [ICub, RB-KAIROS+, UR5e]
+  on_cv: true
 
 - title: Robotics Classes for Children
   group: M. Fresu (Primary) & Maestre Pie (Middle) schools
@@ -17,6 +18,7 @@
   competences: [Lesson Planning, Divulgative Scientific Language]
   tools: [mBlock, Scratch]
   robots: [MBot2, iRobot Root, mTIny]
+  on_cv: true
 
 - title: Visiting Research
   group: Social and Intelligent Robotics Research Lab (SIRRL)
@@ -27,6 +29,7 @@
   competences: [Physiological Sensing, Machine Learning, Deep Learning]
   tools: [YARP, Python]
   robots: [Furhat]
+  on_cv: true
 
 - title: Ph.D Candidate
   group: Robotics, Brains and Cognitive Sciences (RBCS) & ICT
@@ -37,11 +40,13 @@
   competences: [Data Analysis, Research Planning]
   tools: [YARP, Python, C++]
   robots: [ICub, MyKeepon]
+  on_cv: true
 
 - title: Big Data Architect
   group: Data Reply (Milan & Bologna)
   from: Oct 2017
   to: Nov 2018
-  description: Design and development of architectures for the management and real-time processing of Big Data in the vehicle insurance field.
-  competences: [Spark, DevOps, Cloudera CDH]
+  description: Design and development of architectures for the management and real-time processing of Big Data in the vehicle insurance field. Master's Degree dissertation project using DevOps principles and tools to fully automatise the development and deployment process of a movie recommendation service in a Big Data ecosystem.
+  competences: [Ansible, Terraform, Jenkins, Spark, DevOps, Cloudera CDH]
   tools: [Python, Scala]
+  on_cv: true
