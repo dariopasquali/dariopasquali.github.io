@@ -3,13 +3,16 @@
       {% for item in site.data.work %}
         <div class="timeline-item">
           <div class="content">
-            <h2>{{ item.title }}</h2>
-            <h4><b>{{ item.group }}</b></h4>
+            <h2><b>{{ item.title }}</b></h2>
+            <h4><i>{{ item.group }}</i></h4>
             <h4>{{ item.location }}</h4>
             <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
             <p>{{ item.description }}</p>
             {%- for competence in item.competences -%}
             <span class="badge badge-pill text-primary border border-primary ml-1">{{ competence }}</span>
+            {%- endfor -%}
+            {%- for tool in item.tools -%}
+            <span class="badge badge-pill text-secondary border border-secondary ml-1">{{ tool }}</span>
             {%- endfor -%}
           </div>
         </div>

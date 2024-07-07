@@ -4,15 +4,17 @@
   from: Jul 2022
   to: present
   description: Actively working on National (<a href="https://dariopasquali.github.io/projects/1-fair"><b>FAIR</b></a>) and European (<a href="https://dariopasquali.github.io/projects/2-ariel"><b>ARIEL</b></a>) research projects. Reference person in the laboratory for architectural and Software Engineering matters. Tutoring bachelor and master internship students, and mentoring PhD candidates.
-  competences: [Cognitive Architectures, Deep Learning, Data Analysis, Research Planning, ICub robot, ROS, YARP, Python, C++]
+  competences: [Cognitive Architectures, Deep Learning, Data Analysis, Research Planning]
+  tools: [ICub robot, ROS, YARP, Python, C++]
 
 - title: Visiting Research
   group: Social and Intelligent Robotics Research Lab (SIRRL)
   location: University of Waterloo (Ontario, Canada)
   from: Jul 2021
   to: Nov 2021
-  description: Development of a textual adventure to challenge players against Social Engineering threats. Real-time control of the humanoid robot Furhat (Python). Multi-modal acquisition and processing of physiological data from an Eyelink 1000, a Tobii Pro Glasses 2 and a Shimmer3 GSR+, used to predict humans’ compliance. Evaluation of different intervention strategies for a robot to prevent users' compliance.
-  competences: [Physiological Sensing, Machine Learning, Deep Learning, Furhat robot, YARP, Python]
+  description: Development of a textual adventure to challenge players against Social Engineering threats. Real-time control of the humanoid robot Furhat. Multi-modal acquisition and processing of physiological data from an Eyelink 1000, a Tobii Pro Glasses 2 and a Shimmer3 GSR+, used to predict humans' compliance. Evaluation of different intervention strategies for a robot to prevent users' compliance.
+  competences: [Physiological Sensing, Machine Learning, Deep Learning]
+  tools: [Furhat robot, YARP, Python]
 
 - title: Ph.D Candidate
   group: Robotics, Brains and Cognitive Sciences (RBCS) & ICT
@@ -20,11 +22,13 @@
   from: Nov 2018
   to: Jul 2022
   description: Machine-learning based real-time evaluation of pupillometry, heart rate and electrodermal activity to predict the compliance with Social Engineering attacks, and detect human deception in human-robot interaction with Machine Learning models.
-  competences: [Data Analysis, Research Planning, ICub robot, YARP, Python, C++]
+  competences: [Data Analysis, Research Planning]
+  tools: [ICub robot, YARP, Python, C++]
 
 - title: Big Data Architect
   group: Data Reply (Milan & Bologna)
   from: Oct 2017
   to: Nov 2018
   description: Design and development of architectures for the management and real-time processing of Big Data in the vehicle insurance field.
-  competences: [Python, Scala, Spark, DevOps, Cloudera CDH]
+  competences: [Spark, DevOps, Cloudera CDH]
+  tools: [Python, Scala]
