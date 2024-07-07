@@ -32,8 +32,10 @@ jobs:
       - name: update the CV branch
         run: |
           git clone -b cv git@github.com:dariopasquali/dariopasquali.github.io.git
-          yes | cp -rf latex/* cv/
-          cd cv
+          yes | cp -rf latex/* dariopasquali.github.io/
+          cd dariopasquali.github.io
           git add --all
           git commit -m "update the CV"
           git push
+          cd ..
+          rm -Rf dariopasquali.github.io
