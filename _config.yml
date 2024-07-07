@@ -96,3 +96,4 @@ exclude:
   - "*.log"
   - _elements/
   - documentation/
+  - latex/
