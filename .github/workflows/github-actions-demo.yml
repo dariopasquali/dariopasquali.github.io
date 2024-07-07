@@ -24,7 +24,7 @@ jobs:
           ls ${{ github.workspace }}
 
       - name: Upload the PDF as artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: dario-cv
           path: latex/CV_eng.pdf
