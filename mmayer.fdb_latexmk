@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber mmayer"] 1720359091 "mmayer.bcf" "mmayer.bbl" "mmayer" 1720359457
-  "mmayer.bcf" 1720359457 107247 7811f64dd43b9895c9163fe98a16a2ab "pdflatex"
-  "sample.bib" 1720344170 6399 7a325d44c63b55d614cde7c4d30c4f25 ""
+["biber mmayer"] 1720369241 "mmayer.bcf" "mmayer.bbl" "mmayer" 1720369244
+  "mmayer.bcf" 1720369244 107247 7811f64dd43b9895c9163fe98a16a2ab "pdflatex"
+  "sample.bib" 1720369241 6417 c005d1a668cefa3136b2c3196ef4e2e0 ""
   (generated)
   "mmayer.bbl"
   "mmayer.blg"
-["pdflatex"] 1720359456 "/home/dpasquali/dariopasquali.github.io/latex/mmayer.tex" "mmayer.pdf" "mmayer" 1720359457
+["pdflatex"] 1720369243 "/home/dpasquali/dariopasquali.github.io/latex/mmayer.tex" "mmayer.pdf" "mmayer" 1720369244
   "/home/dpasquali/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1720358834 278980 f03ea97e592363f6325502d47a423a20 ""
   "/home/dpasquali/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1000.pk" 1720341627 20028 b4ff1d5eb5814adbd4e13e6ba6029d53 ""
   "/home/dpasquali/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1657640836 10319661 5dd2bdf4e9cfae2b3213e83031316e21 ""
@@ -186,9 +186,9 @@
   "/usr/local/share/miktex-texmf/tex/latex/xkeyval/xkeyval.sty" 1656594003 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "altacv.cls" 1720342811 11084 154d8239d0733a54b29fc70a5fbf2215 ""
   "me3.jpg" 1720333456 61487 bb566a50d31d0b708c5c4b60b3ef8e07 ""
-  "mmayer.aux" 1720359457 1478 835f5923289ad4ea2b9062373c9932d9 "pdflatex"
-  "mmayer.bbl" 1720359092 34409 565870e49cc73d7232219bbac890f5df "biber mmayer"
-  "mmayer.run.xml" 1720359457 2321 e3fa057adc14515df072a9ac66a016d7 "pdflatex"
+  "mmayer.aux" 1720369244 1478 89c98d38e06d1a8599797fb5dba49039 "pdflatex"
+  "mmayer.bbl" 1720369242 34531 57e5f5cef9aa4858bbe59a4e1e77ac1e "biber mmayer"
+  "mmayer.run.xml" 1720369244 2321 e3fa057adc14515df072a9ac66a016d7 "pdflatex"
   "mmayer.tex" 1720359456 3715 067b9145a574a92e3617b2e40ab7a101 ""
   "page1sidebar.tex" 1720359428 2602 f56c35f1efbebfb09aea7e339bdacf01 ""
   "page2sidebar.tex" 1720355931 34 3add12a10d146b97b683e4c5d6272125 ""

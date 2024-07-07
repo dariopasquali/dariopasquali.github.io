@@ -19,52 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
-    \entry{PROMENAIDFrontiers}{article}{}
-      \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=1ed9f7cd2cb176c27c734551db8b9f7e}{%
-           family={Jasmin},
-           familyi={J\bibinitperiod},
-           given={Bernotat},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4f4825cf1f53ac2e85b06c0d506eb3ae}{%
-           family={Lorenzo},
-           familyi={L\bibinitperiod},
-           given={Landolfi},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0a482bf86f99c2e91f598da3e60256b7}{%
-           family={\textbs{Pasquali\bibnamedelimb Dario}},
-           familyi={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=e93ee269a6f4068131f600e815eb7b2e}{%
-           family={Alice},
-           familyi={A\bibinitperiod},
-           given={Nardelli},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7a4e81755ba5f45a862a9a237bb6349a}{%
-           family={Francesco},
-           familyi={F\bibinitperiod},
-           given={Rea},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{c306aff925cf30f6a57fdd479cef8041}
-      \strng{fullhash}{e9ba9e0c561f43535429ceef0418e09a}
-      \strng{bibnamehash}{c306aff925cf30f6a57fdd479cef8041}
-      \strng{authorbibnamehash}{c306aff925cf30f6a57fdd479cef8041}
-      \strng{authornamehash}{c306aff925cf30f6a57fdd479cef8041}
-      \strng{authorfullhash}{e9ba9e0c561f43535429ceef0418e09a}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labeldatesource}{nodate}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Frontiers in Robotics and AI}
-      \field{month}{7}
-      \field{title}{[SUBMITTED] Remember me - User-Centered Implementation and Training of Robot Working Memory for HRI in Industrial Settings}
-      \true{nocite}
-    \endentry
     \entry{GROUND2024}{misc}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=05ad7daafb9d06d800baffb63539c3d5}{%
@@ -127,6 +81,57 @@
       \true{nocite}
       \verb{doi}
       \verb https://ground-hri.github.io/workshop/
+      \endverb
+    \endentry
+    \entry{PROMENAIDFrontiers}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=1ed9f7cd2cb176c27c734551db8b9f7e}{%
+           family={Jasmin},
+           familyi={J\bibinitperiod},
+           given={Bernotat},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f4825cf1f53ac2e85b06c0d506eb3ae}{%
+           family={Lorenzo},
+           familyi={L\bibinitperiod},
+           given={Landolfi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a482bf86f99c2e91f598da3e60256b7}{%
+           family={\textbs{Pasquali\bibnamedelimb Dario}},
+           familyi={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=e93ee269a6f4068131f600e815eb7b2e}{%
+           family={Alice},
+           familyi={A\bibinitperiod},
+           given={Nardelli},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a4e81755ba5f45a862a9a237bb6349a}{%
+           family={Francesco},
+           familyi={F\bibinitperiod},
+           given={Rea},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c306aff925cf30f6a57fdd479cef8041}
+      \strng{fullhash}{e9ba9e0c561f43535429ceef0418e09a}
+      \strng{bibnamehash}{c306aff925cf30f6a57fdd479cef8041}
+      \strng{authorbibnamehash}{c306aff925cf30f6a57fdd479cef8041}
+      \strng{authornamehash}{c306aff925cf30f6a57fdd479cef8041}
+      \strng{authorfullhash}{e9ba9e0c561f43535429ceef0418e09a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Robotics and AI}
+      \field{month}{7}
+      \field{title}{Remember me - User-Centered Implementation and Training of Robot Working Memory for HRI in Industrial Settings}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3389/frobt.2023.1257690
       \endverb
     \endentry
     \entry{GROUND2023}{misc}{}
