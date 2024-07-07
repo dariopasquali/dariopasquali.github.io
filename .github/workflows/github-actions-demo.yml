@@ -28,3 +28,12 @@ jobs:
         with:
           name: dario-cv
           path: latex/CV_eng.pdf
+
+      - name: update the CV branch
+        run: |
+          git clone -b cv git@github.com:dariopasquali/dariopasquali.github.io.git
+          yes | cp -rf latex/* cv/
+          cd cv
+          git add --all
+          git commit -m "update the CV"
+          git push
