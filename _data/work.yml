@@ -1,14 +1,17 @@
-- title: Post Doc @ Istituto Italiano di Tecnologia 
-  from: 2022
+- title: Post Doc @ Istituto Italiano di Tecnologia
+  institution: COgNiTive Architectures for Collaborative Technologies (CONTACT) Unit
+  from: Jul 2022
   to: present
-  description: Working on the Proactive Memory iN AI for Development (PROMEN-AID) European project...
+  description: Develop a bio-inspired cognitive architecture enabling the RB-Kairos rover (Robotnik) with context spatial awareness and working functional memory to ensure the safety of human workers in industrial enviroment. [ROS, Python]
 
-- title: Ph.D in Robotics and AI @ Istituto Italiano di Tecnologia 
-  from: 2018
-  to: 2022
-  description: A lot of head-banging ...
+- title: Ph.D Candidate @ Istituto Italiano di Tecnologia
+  institution: RBCS and ICT Departments
+  from: Nov 2018
+  to: Jul 2022
+  description: Machine-learning based real-time evaluation of pupillometry, heart rate and electrodermal activity to predict the compliance with Social Engineering attacks, and detect human deception in human-robot interaction with Machine Learning models. [YARP, Python, C++]
 
-- title: Big Data Architect @ Data Reply 
-  from: 2018
-  to: 2018
-  description: Thesis ...
+- title: Big Data Architect @ Data Reply
+  institution: Data Reply (Milan & Bologna)
+  from: Oct 2017
+  to: Nov 2018
+  description: Design and development of architectures for the management and real-time processing of Big Data in the vehicle insurance field. [Python, Scala, Spark, DevOps, Cloudera CDH]
