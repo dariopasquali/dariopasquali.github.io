@@ -7,6 +7,9 @@
             <h4>{{ item.institution }}</h4>
             <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
             <p>{{ item.description }}</p>
+            {%- for competence in item.competences -%}
+            <span class="badge badge-pill text-primary border border-primary ml-1">{{ competence }}</span>
+            {%- endfor -%}
           </div>
         </div>
       {% endfor %}

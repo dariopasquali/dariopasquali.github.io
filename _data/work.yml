@@ -2,22 +2,26 @@
   institution: COgNiTive Architectures for Collaborative Technologies (CONTACT) - Istituto Italiano di Tecnologia (Genova, Italy)
   from: Jul 2022
   to: present
-  description: Develop a bio-inspired cognitive architecture enabling the RB-Kairos rover (Robotnik) with context spatial awareness and working functional memory to ensure the safety of human workers in industrial enviroment. [ROS, Python]
+  description: Develop a bio-inspired cognitive architecture enabling the RB-Kairos rover (Robotnik) with context spatial awareness and working functional memory to ensure the safety of human workers in industrial enviroment. 
+  competences: [ROS, Python]
 
 - title: Visiting Research
   institution: Social and Intelligent Robotics Research Lab (SIRRL) - University of Waterloo (Ontario, Canada)
   from: Jul 2021
   to: Nov 2021
   description: Python textual adventure to challenge players against Social Engineering threats. Real-time control of the humanoid robot Furhat (Python). Multi-modal acquisition and processing of physiological data from an Eyelink 1000, a Tobii Pro Glasses 2 and a Shimmer3 GSR+, used to predict humans’ compliance. Evaluation of different intervention strategies for a robot to prevent users' compliance.
+  competences: [YARP, Python]
 
 - title: Ph.D Candidate
   institution: RBCS and ICT Departments - Istituto Italiano di Tecnologia (Genova, Italy)
   from: Nov 2018
   to: Jul 2022
-  description: Machine-learning based real-time evaluation of pupillometry, heart rate and electrodermal activity to predict the compliance with Social Engineering attacks, and detect human deception in human-robot interaction with Machine Learning models. [YARP, Python, C++]
+  description: Machine-learning based real-time evaluation of pupillometry, heart rate and electrodermal activity to predict the compliance with Social Engineering attacks, and detect human deception in human-robot interaction with Machine Learning models.
+  competences: [YARP, Python, C++]
 
 - title: Big Data Architect
   institution: Data Reply (Milan & Bologna)
   from: Oct 2017
   to: Nov 2018
-  description: Design and development of architectures for the management and real-time processing of Big Data in the vehicle insurance field. [Python, Scala, Spark, DevOps, Cloudera CDH]
+  description: Design and development of architectures for the management and real-time processing of Big Data in the vehicle insurance field.
+  competences: [Python, Scala, Spark, DevOps, Cloudera CDH]
