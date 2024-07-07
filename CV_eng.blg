@@ -1,18 +1,18 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'CV_eng.blg'
-[38] biber:340> INFO - === Sun Jul  7, 2024, 16:02:40
-[46] Biber.pm:418> INFO - Reading 'CV_eng.bcf'
-[84] Biber.pm:975> INFO - Using all citekeys in bib section 0
-[92] Biber.pm:4401> INFO - Processing section 0
-[98] Biber.pm:4592> INFO - Looking for bibtex file 'sample.bib' for section 0
-[99] bibtex.pm:1713> INFO - LaTeX decoding ...
-[108] bibtex.pm:1518> INFO - Found BibTeX data source 'sample.bib'
-[221] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[221] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[221] Biber.pm:4221> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[221] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
-[230] bbl.pm:654> INFO - Writing 'CV_eng.bbl' with encoding 'UTF-8'
-[241] bbl.pm:757> INFO - Output to CV_eng.bbl
-[241] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_LoIQ/4f254e11deca8776044b2c0962cb1230_34848.utf8, line 24, warning: 37 characters of junk seen at toplevel
-[241] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_LoIQ/4f254e11deca8776044b2c0962cb1230_34848.utf8, line 77, warning: 37 characters of junk seen at toplevel
-[241] Biber.pm:132> INFO - WARNINGS: 2
+[43] biber:340> INFO - === Sun Jul  7, 2024, 16:04:23
+[52] Biber.pm:418> INFO - Reading 'CV_eng.bcf'
+[92] Biber.pm:975> INFO - Using all citekeys in bib section 0
+[101] Biber.pm:4401> INFO - Processing section 0
+[107] Biber.pm:4592> INFO - Looking for bibtex file 'sample.bib' for section 0
+[107] bibtex.pm:1713> INFO - LaTeX decoding ...
+[117] bibtex.pm:1518> INFO - Found BibTeX data source 'sample.bib'
+[236] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[236] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[236] Biber.pm:4221> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[236] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[246] bbl.pm:654> INFO - Writing 'CV_eng.bbl' with encoding 'UTF-8'
+[256] bbl.pm:757> INFO - Output to CV_eng.bbl
+[256] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_JCG6/4f254e11deca8776044b2c0962cb1230_35305.utf8, line 24, warning: 37 characters of junk seen at toplevel
+[257] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_JCG6/4f254e11deca8776044b2c0962cb1230_35305.utf8, line 77, warning: 37 characters of junk seen at toplevel
+[257] Biber.pm:132> INFO - WARNINGS: 2
