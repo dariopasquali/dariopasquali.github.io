@@ -7,8 +7,7 @@
             <h5><i>{{ item.authors }}</i></h4>
             <h5>{{ item.journal }}</h4>
             <h6 class="date">{{ item.year }}</h6>
-            <p>DOI: {{ item.description }}</p>
-            {%- endfor -%}
+            <p><b>DOI:</b> <a href="{{ item.doi }}">{{ item.doi }}</a></p>
           </div>
         </div>
       {% endfor %}
