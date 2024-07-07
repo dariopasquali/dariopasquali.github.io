@@ -25,9 +25,11 @@ jobs:
 
       - name: Build Latex CV
         run: |
-          pdflatex -job-name=latex/CV_eng mmayer.tex
-          biber latex/CV_eng.bcf
-          pdflatex -job-name=latex/CV_eng mmayer.tex
+          cd latex
+          pdflatex -job-name=CV_eng mmayer.tex
+          biber CV_eng.bcf
+          pdflatex -job-name=CV_eng mmayer.tex
+          cd ..
 
       - name: Upload the PDF as artifact
         uses: actions/upload-artifact@v4
