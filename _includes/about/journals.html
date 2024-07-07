@@ -3,9 +3,9 @@
       {% for item in site.data.journals %}
         <div class="timeline-item">
           <div class="content">
-            <h4><b>{{ item.title }}</b></h2>
-            <h5><i>{{ item.authors }}</i></h4>
-            <h5>{{ item.journal }}</h4>
+            <h6><b>{{ item.title }}</b></h6>
+            <h6><i>{{ item.authors }}</i></h6>
+            <h6>{{ item.journal }}</h6>
             <h6 class="date">{{ item.year }}</h6>
             <p><b>DOI:</b> <a href="{{ item.doi }}">{{ item.doi }}</a></p>
           </div>
