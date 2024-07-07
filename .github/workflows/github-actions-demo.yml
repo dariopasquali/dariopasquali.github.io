@@ -8,11 +8,21 @@ jobs:
     runs-on: self-hosted
     #runs-on: ubuntu-latest
     steps:
+      - name: checkout code
+        uses: actions/checkout@v2
+      
+      - name: pull last code
+        run: |
+          git pull origin master
+
       - run: echo "Use Python to Convert the Markdown website to Latex"
+
       - run: echo "Use PDFLatex to generate the PDF"
+
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+
       - name: Upload the PDF as artifact
         uses: actions/upload-artifact@v2
         with:
