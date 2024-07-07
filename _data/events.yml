@@ -1,11 +1,11 @@
-- title: Ph.D in Bioengineering and Robotics
-  institution: Istituto Italiano di Tecnologia & University of Genova
-  from: 2018
-  to: 2022
-  description: <b>International Doctorate</b>, <i>Summa cum Laude</i>
+- title:  <b>GROUND 2024 Workshop</b> - advancing GROup UNderstanding and robots' aDaptive behavior
+  authors: Dario Pasquali, Giulia Belgiovine, Linda Lastrico, Giulia Pusceddu, Francesca Cocchella, Ana Tnaveska
+  journal: Int. Conf.  Robots, Science and Systems (RSS 2024) - Delft, Netherlands
+  year: 2023
+  doi: https://ground-hri.github.io/workshop
 
-- title: BSc & MSc in Computer Engineering
-  institution: University of Bologna
-  from: 2012
-  to: 2018
-  description: "<b>MSc</b>: 110/110, <i>Summa cum Laude</i><br><b>BSc</b>: 101/110"
+- title:  <b>GROUND 2023 Workshop</b> - advancing GROup UNderstanding and robots' aDaptive behavior
+  authors: Dario Pasquali, Giulia Belgiovine, Linda Lastrico, Giulia Pusceddu, Francesca Cocchella, Ana Tnaveska
+  journal: ACM/IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023) - Busan, South Corea
+  year: 2023
+  doi: https://ground-hri.github.io/workshop/1stEditionROMAN2023

@@ -1,11 +1,46 @@
-- title: Ph.D in Bioengineering and Robotics
-  institution: Istituto Italiano di Tecnologia & University of Genova
-  from: 2018
-  to: 2022
-  description: <b>International Doctorate</b>, <i>Summa cum Laude</i>
+- title:  "That's not a Good Idea: A Robot Changes Your Behavior Against Social Engineering"
+  authors: <b>Pasquali Dario</b>, Kothig Austin, Aoryo Alexander M., Muñoz John, Dautenhahn Kerstin, Rea Francesco, Bencetti Stefano, Sciutti Alessandra
+  journal: ACM Int. Conf. Human-Agent Interaction (HAI 2023)
+  year: 2023
+  doi: https://doi.org/10.1145/3623809.362387
 
-- title: BSc & MSc in Computer Engineering
-  institution: University of Bologna
-  from: 2012
-  to: 2018
-  description: "<b>MSc</b>: 110/110, <i>Summa cum Laude</i><br><b>BSc</b>: 101/110"
+
+- title:  "Working Memory-Based Architecture for Human-Aware Navigation in Industrial Settings"
+  authors: <b>Pasquali Dario</b>, Landolfi Lorenzo, Nardelli Alice, Bernotat Jasmin, Rea Francesco
+  journal: ACM/IEEE Int. Conf.  Robot and Human Interactive Communication (RO-MAN 2023)
+  year: 2023
+  doi: https://doi.org/10.1109/RO-MAN57019.2023.10309344
+
+- title:  "Detecting Lies in the Wild: Creativity and Learning @ the Maker Faire Rome"
+  authors: <b>Pasquali Dario</b>, Rea Francesco, Sciutti Alessandra
+  journal: AI*IA 2022 - 1st Workshop on Artificial Intelligence and Creativity (CREAI2022)
+  year: 2022
+  doi: https://ceur-ws.org/Vol-3278/paper1.pdf
+
+- title:  "Human vs Robot Lie Detector: Better Working as a Team?"
+  authors: <b>Pasquali Dario</b>, Gaggero Davide, Volpe Gualtiero, Rea Francesco, Sciutti Alessandra
+  journal: ACM/IEEE Int. Conf. on Social Robotics (ICSR 2021)
+  year: 2021
+  doi: https://doi.org/10.1007/978-3-030-90525-5_14
+
+- title:  "Magic iCub: A humanoid robot autonomously catching your lies in a card game"
+  authors: <b>Pasquali Dario</b>, Gonzalez-Billandon Jonas, Rea Francesco, Sandini Giulio, Sciutti Alessandra
+  journal: ACM/IEEE Int. Conf. Human-Robot Interaction (HRI 2021)
+  year: 2021
+  doi: https://doi.org/10.1145/3434073.3444682
+
+- title:  "Do You See the Magic? An Autonomous Robot Magician Can Read Your Mind"
+  authors: <b>Pasquali Dario</b>, M. Aroyo Alexander, Gonzalez-Billandon Jonas, Rea Francesco, Sandini Giulio, Sciutti Alessandra
+  journal: ACM/IEEE Int. Conf. Human-Robot Interaction (HRI 2020) - Workshop on Creative Content on Social Robotics
+  year: 2020
+
+- title:  "Perceived differences between on-line and real robotic failures"
+  authors: Aroyo M. Alexander, <b>Pasquali Dario</b>, Kothig Austin, Rea Francesco, Sandini Giulio, Sciutti Alessandra
+  journal: RO-MAN 2020 - Trust, Acceptance and Social Cues in Human-Robot Interaction Workshop (SCRITA)
+  year: 2020
+
+- title:  "Your eyes never lie: A robot magician can tell if you are lying"
+  authors: <b>Pasquali Dario</b>, Aroyo Mois Alexander, Gonzalez-Billandon Jonas, Rea Francesco, Sandini Giulio, Sciutti Alessandra
+  journal: ACM/IEEE International Conference Human-Robot Interaction (HRI 2020) - Late Breaking Reports - LBR
+  year: 2020
+  doi: https://doi.org/{10.1145/3371382.3378253

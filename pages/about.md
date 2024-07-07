@@ -22,10 +22,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% include about/education.html %}
 </div>
 
-## Publications
+### **Organied Events**
 
-### Journal
+<div class="row">
+{% include about/events.html %}
+</div>
+
+### **Journal Publications**
 
 <div class="row">
 {% include about/journals.html %}
+</div>
+
+### **Conference Proceedings**
+
+<div class="row">
+{% include about/conferences.html %}
 </div>
