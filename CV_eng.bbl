@@ -263,6 +263,9 @@
       \field{title}{{That's not a Good Idea: A Robot Changes Your Behavior Against Social Engineering}}
       \field{year}{2023}
       \true{nocite}
+      \verb{doi}
+      \verb 10.1145/3623809.362387
+      \endverb
     \endentry
     \entry{PasqualiROMAN2023}{inproceedings}{}
       \name{author}{5}{ul=2}{%
@@ -311,6 +314,9 @@
       \field{title}{{Working Memory-Based Architecture for Human-Aware Navigation in Industrial Settings}}
       \field{year}{2023}
       \true{nocite}
+      \verb{doi}
+      \verb 10.1109/RO-MAN57019.2023.10309344
+      \endverb
     \endentry
     \entry{PasqualiCREAI2022}{inproceedings}{}
       \name{author}{3}{}{%
@@ -350,6 +356,9 @@
       \field{title}{{Detecting Lies in the Wild: Creativity and Learning @ the Maker Faire Rome}}
       \field{year}{2022}
       \true{nocite}
+      \verb{doi}
+      \verb https://ceur-ws.org/Vol-3278/paper1.pdf
+      \endverb
     \endentry
     \entry{Aroyo2021}{article}{}
       \name{author}{6}{}{%
@@ -699,9 +708,9 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{ACM/IEEE Int. Conf. Human-Robot Interact. - Late Breaking Reports - LBR}
       \field{isbn}{9781450370578}
       \field{issn}{21672148}
-      \field{journaltitle}{ACM/IEEE Int. Conf. Human-Robot Interact. - Late Breaking Reports - LBR}
       \field{month}{3}
       \field{title}{{Your eyes never lie: A robot magician can tell if you are lying}}
       \field{year}{2020}
