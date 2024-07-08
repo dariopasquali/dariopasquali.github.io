@@ -24,15 +24,15 @@ jobs:
           pdflatex -job-name=CV_eng mmayer.tex
           biber CV_eng.bcf
           pdflatex -job-name=CV_eng mmayer.tex
-          rf -f *.aux
-          rf -f *.bbl
-          rf -f *.bcf
-          rf -f *.blg
-          rf -f *.log
-          rf -f *.run.xml
-          rf -f *.fbd_latexmk
-          rf -f *.fls
-          rf -f *.synctex.gz
+          rm -f *.aux
+          rm -f *.bbl
+          rm -f *.bcf
+          rm -f *.blg
+          rm -f *.log
+          rm -f *.run.xml
+          rm -f *.fbd_latexmk
+          rm -f *.fls
+          rm -f *.synctex.gz
           cd ..
 
       - name: Upload the PDF as artifact
@@ -44,7 +44,7 @@ jobs:
       - name: update the CV branch
         run: |
           git clone -b cv git@github.com:dariopasquali/dariopasquali.github.io.git
-          rf -Rf dariopasquali.github.io/*
+          rm -Rf dariopasquali.github.io/*
           yes | cp -rf latex/* dariopasquali.github.io/
           cd dariopasquali.github.io
           git add --all
