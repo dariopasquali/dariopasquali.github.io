@@ -84,7 +84,7 @@ latex_work = """
 \\cvsection[page1sidebar]{About Me}
 Experienced Software Engineer specializing in creating end-to-end user interaction systems that integrate Deep Learning with low-level devices.
 
-\\cvsection[page1sidebar]{Work Experience}
+\\cvsection{Work Experience}
 
 """
 
