@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber mmayer"] 1720427904 "mmayer.bcf" "mmayer.bbl" "mmayer" 1720427907
-  "mmayer.bcf" 1720427906 107247 7811f64dd43b9895c9163fe98a16a2ab "pdflatex"
+["biber mmayer"] 1720444173 "mmayer.bcf" "mmayer.bbl" "mmayer" 1720444182
+  "mmayer.bcf" 1720444181 107247 7811f64dd43b9895c9163fe98a16a2ab "pdflatex"
   "sample.bib" 1720427904 6513 7f09359944c79b265381346218792fd9 ""
   (generated)
   "mmayer.bbl"
   "mmayer.blg"
-["pdflatex"] 1720427906 "/home/dpasquali/dariopasquali.github.io/latex/mmayer.tex" "mmayer.pdf" "mmayer" 1720427907
+["pdflatex"] 1720444181 "/home/dpasquali/dariopasquali.github.io/latex/mmayer.tex" "mmayer.pdf" "mmayer" 1720444182
   "/home/dpasquali/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1720358834 278980 f03ea97e592363f6325502d47a423a20 ""
   "/home/dpasquali/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1000.pk" 1720341627 20028 b4ff1d5eb5814adbd4e13e6ba6029d53 ""
   "/home/dpasquali/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1657640836 10319661 5dd2bdf4e9cfae2b3213e83031316e21 ""
@@ -62,7 +62,7 @@
   "/home/dpasquali/.miktex/texmfs/install/tex/latex/logreq/logreq.def" 1720341407 1620 fb1c32b818f2058eca187e5c41dfae77 ""
   "/home/dpasquali/.miktex/texmfs/install/tex/latex/logreq/logreq.sty" 1720341407 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "/home/dpasquali/.miktex/texmfs/install/tex/latex/multirow/multirow.sty" 1656594124 6149 2398eec4faa1ee24ff761581e580ecf1 ""
-  "/home/dpasquali/dariopasquali.github.io/latex/mmayer.tex" 1720359456 3715 067b9145a574a92e3617b2e40ab7a101 ""
+  "/home/dpasquali/dariopasquali.github.io/latex/mmayer.tex" 1720444181 3654 d5f17afdb4c3a42d88798480126282ad ""
   "/usr/local/share/miktex-texmf/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1656593995 3148 7e594c8240c71e432203f65ab5f95a51 ""
   "/usr/local/share/miktex-texmf/fonts/tfm/jknappen/ec/ectt1000.tfm" 1656593995 1348 d70ddf2d5d512b838e50a335e385e919 ""
   "/usr/local/share/miktex-texmf/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1656593989 1004 54797486969f23fa377b128694d548df ""
@@ -186,11 +186,11 @@
   "/usr/local/share/miktex-texmf/tex/latex/xkeyval/xkeyval.sty" 1656594003 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "altacv.cls" 1720342811 11084 154d8239d0733a54b29fc70a5fbf2215 ""
   "me3.jpg" 1720333456 61487 bb566a50d31d0b708c5c4b60b3ef8e07 ""
-  "mmayer.aux" 1720427906 1478 ab157d359a3f96609825b3e6f66bc773 "pdflatex"
-  "mmayer.bbl" 1720427905 34757 ea895102f42d554e3e9f7ec8d74be218 "biber mmayer"
-  "mmayer.run.xml" 1720427906 2321 e3fa057adc14515df072a9ac66a016d7 "pdflatex"
-  "mmayer.tex" 1720359456 3715 067b9145a574a92e3617b2e40ab7a101 ""
-  "page1sidebar.tex" 1720359428 2602 f56c35f1efbebfb09aea7e339bdacf01 ""
+  "mmayer.aux" 1720444181 1478 ab157d359a3f96609825b3e6f66bc773 "pdflatex"
+  "mmayer.bbl" 1720444174 34757 ea895102f42d554e3e9f7ec8d74be218 "biber mmayer"
+  "mmayer.run.xml" 1720444182 2321 e3fa057adc14515df072a9ac66a016d7 "pdflatex"
+  "mmayer.tex" 1720444181 3654 d5f17afdb4c3a42d88798480126282ad ""
+  "page1sidebar.tex" 1720444175 2098 2487b9910716d075edd0c37759f6c6c3 ""
   "page2sidebar.tex" 1720355931 34 3add12a10d146b97b683e4c5d6272125 ""
   (generated)
   "mmayer.aux"
