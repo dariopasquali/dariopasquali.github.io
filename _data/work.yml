@@ -18,7 +18,7 @@
   competences: [Lesson Planning, Divulgative Scientific Language]
   tools: [mBlock, Scratch]
   robots: [MBot2, iRobot Root, mTIny]
-  on_cv: true
+  on_cv: false
 
 - title: Visiting Research
   group: Social and Intelligent Robotics Research Lab (SIRRL)
@@ -43,7 +43,8 @@
   on_cv: true
 
 - title: Big Data Architect
-  group: Data Reply (Milan & Bologna)
+  group: Data Reply
+  location: 'Milan & Bologna, Italy'
   from: Oct 2017
   to: Nov 2018
   description: Design and development of architectures for the management and real-time processing of Big Data in the vehicle insurance field. Master's Degree dissertation project using DevOps principles and tools to fully automatise the development and deployment process of a movie recommendation service in a Big Data ecosystem.

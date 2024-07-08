@@ -1,9 +1,10 @@
 ---
-name: Embodied AI for Action and Perception
+name: Embodied AI for Action and Perception (FAIR)
 tools: [Artificial Cognition, Unsupervised Learning, Python, YARP]
 image: https://raw.githubusercontent.com/dariopasquali/dariopasquali.github.io/portfolYOU/assets/robot.png
-description: Future Arificial Intelligence Research (FAIR)  
 external_url:
+description: Develop an Artificial Cognition for iCub, enabling the robot to autonomously learn from unsupervised experiences, fostering its ability to adapt and interact dynamically in social and everyday scenarios.
+on_cv: true
 ---
 
 # Artificial Cognition, From the Ground Up!

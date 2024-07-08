@@ -19,6 +19,7 @@ jobs:
 
       - name: Build Latex CV
         run: |
+          python website_latex.py
           cd latex
           pdflatex -job-name=CV_eng mmayer.tex
           biber CV_eng.bcf
