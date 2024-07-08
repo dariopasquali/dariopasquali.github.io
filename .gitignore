@@ -22,3 +22,5 @@ Gemfile.lock
 *.fbd_latexmk
 *.fls
 *.synctex.gz
+
+.venv

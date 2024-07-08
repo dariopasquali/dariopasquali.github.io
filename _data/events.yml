@@ -1,11 +1,15 @@
-- title:  <b>GROUND 2024 Workshop</b> - advancing GROup UNderstanding and robots' aDaptive behavior
-  authors: Dario Pasquali, Giulia Belgiovine, Linda Lastrico, Giulia Pusceddu, Francesca Cocchella, Ana Tnaveska
-  journal: Int. Conf.  Robots, Science and Systems (RSS 2024) - Delft, Netherlands
-  year: 2023
-  doi: https://ground-hri.github.io/workshop
-
-- title:  <b>GROUND 2023 Workshop</b> - advancing GROup UNderstanding and robots' aDaptive behavior
-  authors: Dario Pasquali, Giulia Belgiovine, Linda Lastrico, Giulia Pusceddu, Francesca Cocchella, Ana Tnaveska
-  journal: ACM/IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023) - Busan, South Corea
-  year: 2023
+- authors: Dario Pasquali, Giulia Belgiovine, Linda Lastrico, Giulia Pusceddu, Francesca
+    Cocchella, Ana Tnaveska
   doi: https://ground-hri.github.io/workshop/1stEditionROMAN2023
+  journal: ACM/IEEE Int. Conf.  Robot and Human Interactive Communication (RO-MAN
+    2023) - Busan, South Corea
+  title: <b>GROUND 2023 Workshop</b> - advancing GROup UNderstanding and robots' aDaptive
+    behavior
+  year: '2023'
+- authors: Dario Pasquali, Giulia Belgiovine, Linda Lastrico, Giulia Pusceddu, Francesca
+    Cocchella, Ana Tnaveska
+  doi: https://ground-hri.github.io/workshop/
+  journal: Int. Conf.  Robots, Science and Systems (RSS 2024) - Delft, Netherlands
+  title: <b>GROUND 2024 Workshop</b> - advancing GROup UNderstanding and robots' aDaptive
+    behavior
+  year: '2024'
