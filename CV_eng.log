@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.7.12)  8 JUL 2024 15:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.7.12)  8 JUL 2024 15:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1355,48 +1355,43 @@ Package biblatex Info: Reference segment=0 on input line 24.
 \c@mv@tabular=\count430
 \c@mv@boldtabular=\count431
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 41.
+(Font)              scaled to size 24.88pt on input line 43.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 41.
+(Font)              scaled to size 24.88pt on input line 43.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 41.
+(Font)              scaled to size 12.0pt on input line 43.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 41.
+(Font)              scaled to size 12.0pt on input line 43.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 41.
+(Font)              scaled to size 8.0pt on input line 43.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 41.
+(Font)              scaled to size 8.0pt on input line 43.
 LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
-ut line 41.
+ut line 43.
 
 (/home/dpasquali/.miktex/texmfs/install/tex/latex/fontawesome/ufontawesomeone.f
 d
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 41.
+ut line 43.
 
 (/home/dpasquali/.miktex/texmfs/install/tex/latex/fontawesome/ufontawesometwo.f
 d
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 41--41
-[][] [] 
- []
-
-
-Underfull \hbox (badness 2351) in paragraph at lines 41--41
-[] [] [] 
+Underfull \hbox (badness 1552) in paragraph at lines 43--43
+[][] [] [] 
  []
 
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 41.
+(Font)              <7> on input line 43.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 41.
+(Font)              <5> on input line 43.
 <me3.jpg, id=4, 120.45pt x 120.45pt>
 File: me3.jpg Graphic file (type jpg)
 <use me3.jpg>
-Package pdftex.def Info: me3.jpg  used on input line 41.
+Package pdftex.def Info: me3.jpg  used on input line 43.
 (pdftex.def)             Requested size: 120.44969pt x 120.44969pt.
 (page1sidebar.tex
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
@@ -1404,39 +1399,43 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 2.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 3.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 3.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 4.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 4.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 5.
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 25.
+ine 18.
 
 (/home/dpasquali/.miktex/texmfs/install/tex/latex/lato/TS1lato-TLF.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 25.
+(Font)              scaled to size 9.0pt on input line 18.
 )
+(page1sidebar.tex)
+
+LaTeX Warning: Marginpar on page 1 moved.
+
 [1
 
 {/home/dpasquali/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map} <./me3.jpg>] 
 (page2sidebar.tex)
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/it' will be
-(Font)              scaled to size 10.0pt on input line 96.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 9
-6.
+(Font)              scaled to size 10.0pt on input line 79.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
+9.
  (/usr/local/share/miktex-texmf/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 (page2sidebar.tex)
-Overfull \hbox (1.45929pt too wide) in paragraph at lines 106--106
+Overfull \hbox (1.45929pt too wide) in paragraph at lines 87--87
 [][][]\T1/lato-TLF/b/n/10 Pasquali Dario\T1/lato-TLF/m/n/10 , Lan-dolfi Lorenzo
 , et al. (Aug. 2023). ``Work-ing Memory-Based Ar-chi-tec-ture for Human-Aware 
  []
 
 
-Overfull \hbox (2.49005pt too wide) in paragraph at lines 106--106
+Overfull \hbox (2.49005pt too wide) in paragraph at lines 87--87
 \T1/lato-TLF/m/n/10 Team?'' In: \T1/lato-TLF/m/it/10 ACM/IEEE Int. Conf. on So-
 cial Robotics (ICSR)\T1/lato-TLF/m/n/10 . Springer, Cham. DOI: $\T1/cmtt/m/n/10
  10 . 1007 / 978-[]3-[]030-[]90525-[]5 _ 
@@ -1457,9 +1456,9 @@ Package logreq Info: Writing requests to 'CV_eng.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27443 strings out of 478352
- 575551 string characters out of 2844136
- 1293662 words of memory out of 3000000
+ 27445 strings out of 478352
+ 575674 string characters out of 2844136
+ 1305662 words of memory out of 3000000
  45428 multiletter control sequences out of 15000+600000
  761806 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1475,7 +1474,7 @@ and/lato/Lato-Bold.pfb></home/dpasquali/.miktex/texmfs/install/fonts/type1/typo
 land/lato/Lato-BoldItalic.pfb></home/dpasquali/.miktex/texmfs/install/fonts/typ
 e1/typoland/lato/Lato-Italic.pfb></home/dpasquali/.miktex/texmfs/install/fonts/
 type1/typoland/lato/Lato-Regular.pfb>
-Output written on CV_eng.pdf (2 pages, 221458 bytes).
+Output written on CV_eng.pdf (2 pages, 221747 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

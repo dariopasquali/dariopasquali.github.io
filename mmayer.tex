@@ -1,3 +1,4 @@
+
 \documentclass[10pt,a4paper,ragged2e]{altacv}
 \geometry{left=2cm,right=10cm,marginparwidth=6.8cm,marginparsep=1.2cm,top=1.25cm,bottom=1.25cm}
 \ifxetexorluatex
@@ -20,91 +21,70 @@
 \addbibresource{sample.bib}
 
 \usepackage{ragged2e}
-
 \begin{document}
+
+
+
 \name{DARIO PASQUALI}
 \tagline{Post Doc @ Istituto Italiano di Tecnologia}
 
 \photo{3.3cm}{me3.jpg}
 \personalinfo{
-
-  \email{dario.pasquali@iit.it}
+  \email{dario.psquali@iit.it}
   \email{dario.pasquali93@gmail.com}
   \phone{(+39) 324 7956801}
   \location{Bologna - Italy}
   \homepage{https://dariopasquali.github.io/}
-  \linkedin{https://www.linkedin.com/in/dario-pasquali/}
+  \linkedin{dario-pasquali}
 }
 
 %% Make the header extend all the way to the right, if you want.
 \begin{fullwidth}
-  \makecvheader
+\makecvheader
 \end{fullwidth}
 
-%% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
+
 \AtBeginEnvironment{itemize}{\small}
+\cvsection[page1sidebar]{About Me}
+Experienced Software Engineer specializing in creating end-to-end user interaction systems that integrate Deep Learning with low-level devices.
 
 \cvsection[page1sidebar]{Work Experience}
 
-\cvevent{Post Doc - IIT}{COgNiTive Architectures for Collaborative Technologies}{Feb 2022 -- Present}{Genova, Italy}
-\textbf{Proactive Memory iN AI for Development}\\
-Develop a bio-inspired cognitive architecture enabling the RB-Kairos rover (Robotnik) with context spatial awareness and working functional memory to ensure the safety of human workers in industrial enviroment. [ROS, Python]
+\cvevent{Post Doc}{COgNiTive Architectures for Collaborative Technologies (CONTACT)}{Jul 2022 -- Now}{Istituto Italiano di Tecnologia }
+    Actively working on National (\textbf{FAIR}) and European (\textbf{ARIEL}) research projects. Reference person in the laboratory for architectural and Software Engineering matters. Tutoring bachelor and master internship students, and mentoring PhD candidates.
 
-\divider
+    \divider    
+    
+    \cvevent{Visiting Research}{Social and Intelligent Robotics Research Lab (SIRRL)}{Jul 2021 -- Nov 2021}{University of Waterloo }
+    Development of a textual adventure to challenge players against Social Engineering threats. Real-time control of the humanoid robot Furhat. Multi-modal acquisition and processing of physiological data from an Eyelink 1000, a Tobii Pro Glasses 2 and a Shimmer3 GSR+, used to predict humans' compliance. Evaluation of different intervention strategies for a robot to prevent users' compliance.
 
-\cvevent{PhD Candidate - IIT}{RBCS and ICT Departments}{Nov 2018 -- July 2022}{Genova, Italy}
-\textbf{Cyber Security and Social Engineering in Human-Robot Interaction.}\\
-Machine-learning based real-time evaluation of pupillometry, heart rate and electrodermal activity to predict the compliance with Social Engineering attacks, and detect human deception in human-robot interaction with Machine Learning models. [YARP, Python, C++]
+    \divider    
+    
+    \cvevent{Ph.D Candidate}{Robotics, Brains and Cognitive Sciences (RBCS) \& ICT}{Nov 2018 -- Jul 2022}{Istituto Italiano di Tecnologia }
+    Machine-learning based real-time evaluation of pupillometry, heart rate and electrodermal activity to predict the compliance with Social Engineering attacks, and detect human deception in human-robot interaction with Machine Learning models.
 
-\divider
+    \divider    
+    
+    \cvevent{Big Data Architect}{Data Reply}{Oct 2017 -- Nov 2018}{Milan \& Bologna, Italy}
+    Design and development of architectures for the management and real-time processing of Big Data in the vehicle insurance field. Master's Degree dissertation project using DevOps principles and tools to fully automatise the development and deployment process of a movie recommendation service in a Big Data ecosystem.
 
-\cvevent{Big Data Engineer}{Data Reply}{Oct 2017 - Nov 2018}{Milan and Bologna, Italy}
-Design and development of architectures for the management and real-time processing of Big Data in the vehicle insurance field. [Python, Scala, Spark, DevOps, Cloudera CDH]
-
-
-\cvsection{TECHNICAL SKILLS}
-\smallskip
-\begin{itemize}
-  \item Python, C++, Scala, Java, C\#, C, Prolog.
-        \smallskip
-  \item Keras, Tensorflow, PyTorch, OpenCV, YARP, Cloudera CDH, Spark, Ansible, Jenkins, ROS, YARP
-        \smallskip
-\end{itemize}
-\cvsection{PERSONAL SKILLS}
-\smallskip
-\begin{itemize}
-  \item Team-working and passion toward mentoring and leadership
-        \smallskip
-  \item Extremely curious and always eager to expand my knowledge
-        \smallskip
-  \item Initiative-taker in problem solving and used to lateral thinking
-\end{itemize}
-
-\cvsection{Hobbies}
-Miniature painting, Beer homebrewing, Cooking
-
-\cvsection{Achievements}
-\smallskip
-Successfully planning my wedding and leading the renovation of my future house, while doing a PhD in a different city, during the pandemic.
-
+    \divider    
+    
+    
 \clearpage
 
 \begin{fullwidth}
 
   \cvsection[page2sidebar]{Organized Events}
-
   \printbibliography[heading=pubtype,title=\empty, type=misc]
 
   \cvsection[page2sidebar]{Publications}
-
   \nocite{*}
 
   \printbibliography[heading=pubtype,title={\printinfo{\faFileTextO}{Journal}}, type=article]
-
   \divider
 
   \printbibliography[heading=pubtype,title={\printinfo{\faFileTextO}{Conference Proceedings}}, type=inproceedings]
 
 \end{fullwidth}
-
 \end{document}
