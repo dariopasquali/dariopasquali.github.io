@@ -114,7 +114,7 @@ latex_page2 = """
 
 \\begin{fullwidth}
 
-  Beyond the lab, I'm passionate about \\textbf{cooking} and homebrewing beer—it’s a lot like programming! I also enjoy \\textbf{playing board and card games} with friends every week. As a \textit{Magic: The Gathering} enthusiast, I'm always on the lookout for interesting strategies to bring to the table.
+  Beyond the lab, I'm passionate about \\textbf{cooking} and homebrewing beer—it’s a lot like programming! I also enjoy \\textbf{playing board and card games} with friends every week. As a \textit{Magic: The Gathering} enthusiast, I'm always on the lookout for interesting strategies to bring to the table.\\\\
   \\divider\\\\
   
   \\textbf{Foreign Languages: English (Professional Level)}\\\\
