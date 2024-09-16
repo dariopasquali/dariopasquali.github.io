@@ -1,7 +1,7 @@
 ---
 name: Assessing childRen manIpulation and Exploration skiLls (ARIEL)
 tools: [Objects Manipulation Skills, Assessment Tools, Python]
-image: https://raw.githubusercontent.com/dariopasquali/dariopasquali.github.io/portfolYOU/master/MyCube.png
+image: https://raw.githubusercontent.com/dariopasquali/dariopasquali.github.io/master/MyCube.png
 description: Develop the myCube, a multisensory Medical Device for the assessment and training of manipulation skills in children and adults.
 external_url:
 on_cv: true 
