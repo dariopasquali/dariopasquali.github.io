@@ -125,14 +125,14 @@ latex_page2 = """
 
   \\printbibliography[heading=pubtype,title={\\printinfo{\\faFileTextO}{Conference Proceedings}}, type=inproceedings]
   
-  \\cvsection[page2sidebar]{Foreign Languages: English (Professional Level)}
-  \\divider
+  \\divider  
+  \\textbf{Foreign Languages: English (Professional Level)}\\\\
 
-  \\cvsection[page2sidebar]{Programming Languages, Tools, Methodologies}
+  \\textbf{Programming Languages, Tools, Methodologies}\\\\
   Python, C++, Scala, Arduino; Numpy, Pandas, OpenCV, OpenFace, OpenPose, Tensorflow, Keras, PyTorch, SciPy, Scikit-learn, Seaborn, Hugging Face, Spark; ROS1, ROS2, YARP, PyQt5/6, Jamovi, ChatGPT, Cloudera CDH, Kafka, Kudu, Ansible, Terraform
 
-  \\cvsection[page2sidebar]{About Me} 
-  Beyond the lab, I'm passionate about \\textbf{cooking} and homebrewing beer—it’s a lot like programming! I also enjoy \textbf{playing board and card games} with friends every week. As a \\textit{Magic: The Gathering} enthusiast, I'm always on the lookout for interesting strategies to bring to the table.
+  \\textbf{About Me}\\\\
+  Beyond the lab, I'm passionate about \\textbf{cooking} and homebrewing beer—it’s a lot like programming! I also enjoy \\textbf{playing board and card games} with friends every week. As a \textit{Magic: The Gathering} enthusiast, I'm always on the lookout for interesting strategies to bring to the table.
 
 
 \\end{fullwidth}
