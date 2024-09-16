@@ -3,7 +3,7 @@ name: S+T+ARTS Project - Soft Collision (VOJEXT)
 tools: [Python, Scikit-learn, C++, YARP, Pupillometry]
 image: //freight.cargo.site/w/3500/q/75/i/3128a2f3922a72bd07887458a832704ef6f4ea39e79d5b4e179a3bebffc217e2/AnnaSchaeffner_RZ1A3730_MichelleMantel.JPG
 external_url:
-on_cv: true
+on_cv: false
 description: Integration of the RB-KAIROS+ and UR5e robots, Flex-TS sensitive skin, iCube, and inflatable skin to allow artist to collaboratively paint walls with a robot in safe conditions.
 ---
 
