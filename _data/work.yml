@@ -36,7 +36,7 @@
   location: Istituto Italiano di Tecnologia (Genova, Italy)
   from: Nov 2018
   to: Jul 2022
-  description: Machine-learning based real-time evaluation of pupillometry, heart rate and electrodermal activity to predict the compliance with Social Engineering attacks, and detect human deception in human-robot interaction with Machine Learning models.
+  description: Machine-learning based real-time evaluation of pupillometry, heart rate and electrodermal activity to predict the compliance with Social Engineering attacks, and detect human deception in human-robot interaction.
   competences: [Data Analysis, Research Planning]
   tools: [YARP, Python, C++]
   robots: [ICub, MyKeepon]

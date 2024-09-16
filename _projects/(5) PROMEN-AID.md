@@ -4,7 +4,7 @@ tools: [Python, Tensorflow, YOLO, ROS]
 image: https://raw.githubusercontent.com/dariopasquali/dariopasquali.github.io/portfolYOU/assets/promenaid.jpg
 external_url: 
 on_cv: true
-description: Enable the RB-KAIROS+ robot to adapt its behavior thanks to with a biological-inspired working memory, ensuring workers' safety in an industrial scenario.
+description: Enable the RB-KAIROS+ robot to adapt its behavior thanks to a biological-inspired working memory, ensuring workers' safety in an industrial scenario.
 ---
 
 # Working Memory-based Context-Awareness for Autonomous Navigation in Industrial Settings
