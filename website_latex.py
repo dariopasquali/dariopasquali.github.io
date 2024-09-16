@@ -45,6 +45,11 @@ latex_head = """
 \\renewcommand{\\ratingmarker}{\\faCircle}
 \\addbibresource{sample.bib}
 
+\\usepackage{fancyhdr}
+\\pagestyle{fancy}      % Set the page style to fancy
+\\fancyhf{}             % Clear the default header and footer
+\\fancyfoot[C]{\small \\textit{Autonomously generated from my website content using a Continuous Integration GitHub Pipeline.}}  % Add a small footer at the center
+
 \\usepackage{ragged2e}
 \\begin{document}
 
@@ -119,6 +124,16 @@ latex_page2 = """
   \\divider
 
   \\printbibliography[heading=pubtype,title={\\printinfo{\\faFileTextO}{Conference Proceedings}}, type=inproceedings]
+  
+  \\cvsection[page2sidebar]{Foreign Languages: English (Professional Level)}
+  \\divider
+
+  \\cvsection[page2sidebar]{Programming Languages, Tools, Methodologies}
+  Python, C++, Scala, Arduino; Numpy, Pandas, OpenCV, OpenFace, OpenPose, Tensorflow, Keras, PyTorch, SciPy, Scikit-learn, Seaborn, Hugging Face, Spark; ROS1, ROS2, YARP, PyQt5/6, Jamovi, ChatGPT, Cloudera CDH, Kafka, Kudu, Ansible, Terraform
+
+  \\cvsection[page2sidebar]{About Me} 
+  Beyond the lab, I'm passionate about \\textbf{cooking} and homebrewing beer—it’s a lot like programming! I also enjoy \textbf{playing board and card games} with friends every week. As a \\textit{Magic: The Gathering} enthusiast, I'm always on the lookout for interesting strategies to bring to the table.
+
 
 \\end{fullwidth}
 \\end{document}
